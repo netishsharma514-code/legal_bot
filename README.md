@@ -7,13 +7,36 @@ LEGAL_BOT is an Indian legal-information assistant. It filters for legal questio
 ```bash
 npm install
 npm --prefix server install
+cp .env.example .env
+cp server/.env.example server/.env
 npm start
 npm run dev
 ```
 
-Create `server/.env` from `.env.example`. Provider credentials are optional because the local retrieval fallback remains available. Never commit `server/.env` or expose provider keys in frontend code.
+Set the runtime environment values in the local `.env` files before starting the app. Provider credentials are optional because the local retrieval fallback remains available. Never commit `.env` files or expose provider keys in frontend code.
 
 The backend uses port `5000` by default and tries the next ports if it is busy. The frontend probes the configured backend URL and local fallback ports.
+
+## Environment files
+
+Root `.env.example`:
+
+```env
+VITE_API_URL=http://localhost:5000
+GEMINI_API_KEY=replace_with_a_gemini_api_key
+HF_API_TOKEN=replace_with_a_huggingface_token
+HF_MODEL=Qwen/Qwen2.5-7B-Instruct
+```
+
+Server `server/.env.example`:
+
+```env
+PORT=5000
+GEMINI_API_KEY=replace_with_a_gemini_api_key
+HF_API_TOKEN=replace_with_a_huggingface_token
+HF_MODEL=Qwen/Qwen2.5-7B-Instruct
+NETWORK_IP=127.0.0.1
+```
 
 ## Verification
 

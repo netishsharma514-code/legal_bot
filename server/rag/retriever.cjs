@@ -1,7 +1,7 @@
 const LEGAL_KEYWORDS = [
   "law", "laws", "legal", "rights", "right", "constitution", "constitutional",
   "lawyer", "advocate", "attorney", "legal advice", "legal aid", "law firm",
-  "वकील", "कानूनी", "अधिकार", "व्यवस्था", "कानून", "पुलिस", "गिरफ्तारी",
+  "वकील", "कानूनी", "अधिकार", "व्यवस्था", "कानून", "पुलिस", "गिरफ्तारी", "गिरफ्तार", "हिरासत",
   "police", "arrest", "detention", "custody", "crime", "criminal", "offence",
   "offense", "complaint", "consumer", "rti", "cyber", "fraud", "property",
   "women", "woman", "harassment", "harass", "harassing", "domestic", "family", "marriage", "court", "magistrate",
@@ -84,7 +84,7 @@ function normalizeKeywords(value) {
 function normalizeQuestion(question = "") {
   return String(question || "")
     .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, " ")
+    .replace(/[^\p{L}\p{M}\p{N}\s]/gu, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -206,7 +206,16 @@ function retrieveRelevantLaws(question, dataset = []) {
   return scoredEntries;
 }
 
-function refusalResponse() {
+function refusalResponse(language = "en") {
+  if (language === "hi") {
+    return {
+      topic: "कानूनी सीमा",
+      quickAnswer: "मैं केवल भारतीय कानून, कानूनी अधिकारों, कर्तव्यों और कानूनी प्रक्रियाओं से जुड़े प्रश्नों में सहायता कर सकता हूँ। कृपया अपने कानूनी अधिकार या कानून से संबंधित प्रश्न पूछें।",
+      detailedAnswer: "यह प्रश्न कानूनी क्षेत्र से बाहर है। LEGAL_BOT भारतीय कानूनी अधिकारों, कर्तव्यों, सुरक्षा, प्रक्रियाओं और कानून से जुड़े विषयों के बारे में सामान्य जानकारी देने के लिए बनाया गया है।",
+      sources: [],
+    };
+  }
+
   return {
     topic: "Legal scope",
     quickAnswer:

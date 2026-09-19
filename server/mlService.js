@@ -41,8 +41,26 @@ const legalSources = [
   "Information Technology Act, 2000",
 ];
 
-function fallbackAnswer(question, relevantLaw) {
+function fallbackAnswer(question, relevantLaw, language = "en") {
   const normalizedQuestion = question.toLowerCase();
+
+  if (language === "hi") {
+    if (normalizedQuestion.includes("arrest") || normalizedQuestion.includes("police") || normalizedQuestion.includes("detained") || /गिरफ्तार|पुलिस|हिरासत/.test(question)) {
+      return {
+        topic: "पुलिस और गिरफ्तारी",
+        quickAnswer: "अगर आपको गिरफ्तार किया जाता है, तो आपको गिरफ्तारी के कारण जानने और अपनी पसंद के वकील से सलाह लेने का अधिकार सामान्यतः होता है। गिरफ्तार व्यक्ति को लागू कानूनी अपवादों को छोड़कर सामान्यतः 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किया जाना चाहिए।",
+        detailedAnswer: "भारत के संविधान का अनुच्छेद 22 गिरफ्तार व्यक्ति को कुछ सुरक्षा देता है, जिसमें गिरफ्तारी के कारण बताए जाने और अपनी पसंद के कानूनी सलाहकार से परामर्श करने का अधिकार शामिल है। यह सामान्य कानूनी जानकारी है, किसी वास्तविक मामले के लिए कानूनी सलाह का विकल्प नहीं। वास्तविक मामले में योग्य वकील से सलाह लें।",
+        sources: [{ title: "भारत का संविधान", section: "अनुच्छेद 22", type: "संवैधानिक प्रावधान" }],
+      };
+    }
+
+    return {
+      topic: "कानूनी जानकारी",
+      quickAnswer: "मेरे वर्तमान ज्ञान-आधार में इस प्रश्न का सुरक्षित उत्तर देने के लिए पर्याप्त सत्यापित कानूनी जानकारी नहीं है। कृपया योग्य कानूनी पेशेवर से सलाह लें या संबंधित आधिकारिक कानूनी स्रोत देखें।",
+      detailedAnswer: "इस प्रश्न का विश्वसनीय उत्तर देने के लिए पर्याप्त सत्यापित कानूनी जानकारी उपलब्ध नहीं है। यह सामान्य कानूनी जानकारी है, कानूनी सलाह का विकल्प नहीं। वास्तविक मामले में योग्य वकील से सलाह लें।",
+      sources: [],
+    };
+  }
 
   if (relevantLaw.length > 0) {
     const law = relevantLaw[0];
@@ -112,7 +130,8 @@ function parseAnswer(text) {
   return answer;
 }
 
-function buildPrompt(question, relevantLaw) {
+function buildPrompt(question, relevantLaw, language = "en") {
+  const outputLanguage = language === "hi" ? "Hindi (Devanagari script)" : "English";
   return `You are LEGAL_BOT, an Indian legal information assistant. Your job is to explain legal information in plain language using the retrieved legal context. Do not act as a lawyer or give legal advice for a live case. Limit yourself to general legal information.
 
 Rules:
@@ -122,6 +141,7 @@ Rules:
 4. Keep the answer general and cautious.
 5. Prefer these source families when relevant: ${legalSources.join(", ")}.
 6. Use the local reference dataset only as supporting information and clearly distinguish historical IPC references from current law where relevant.
+7. Write every human-readable value in ${outputLanguage}. Do not transliterate or repeat English sentences when Hindi is requested. Keep legal act names and source titles in their official form when needed, but explain them in ${outputLanguage}.
 
 Retrieved legal context:
 ${JSON.stringify(relevantLaw, null, 2)}
@@ -169,12 +189,13 @@ function createMlService(config) {
   const ai = geminiApiKey ? new GoogleGenAI({ apiKey: geminiApiKey }) : null;
   const dataset = loadIpcDataset();
 
-  async function answer(question) {
+  async function answer(question, language = "en") {
     const userQuestion = typeof question === "string" ? question.trim() : "";
+    const responseLanguage = language === "hi" ? "hi" : "en";
 
     if (!userQuestion) {
       return {
-        answer: fallbackAnswer("", []),
+        answer: fallbackAnswer("", [], responseLanguage),
         model: "fallback",
         datasetMatches: 0,
       };
@@ -182,14 +203,14 @@ function createMlService(config) {
 
     if (!isLegalQuestion(userQuestion)) {
       return {
-        answer: refusalResponse(),
+        answer: refusalResponse(responseLanguage),
         model: "scope-filter",
         datasetMatches: 0,
       };
     }
 
     const relevantLaw = retrieveRelevantLaws(userQuestion, dataset);
-    const prompt = buildPrompt(userQuestion, relevantLaw);
+    const prompt = buildPrompt(userQuestion, relevantLaw, responseLanguage);
 
     if (ai) {
       try {
@@ -222,14 +243,14 @@ function createMlService(config) {
 
     if (!ai && !huggingFaceToken) {
       return {
-        answer: fallbackAnswer(userQuestion, relevantLaw),
+        answer: fallbackAnswer(userQuestion, relevantLaw, responseLanguage),
         model: "fallback",
         datasetMatches: relevantLaw.length,
       };
     }
 
     return {
-      answer: fallbackAnswer(userQuestion, relevantLaw),
+      answer: fallbackAnswer(userQuestion, relevantLaw, responseLanguage),
       model: "fallback",
       datasetMatches: relevantLaw.length,
     };

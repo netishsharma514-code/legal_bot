@@ -145,6 +145,16 @@ const translations = {
   },
 };
 
+const getInitialTheme = () => {
+  if (typeof window === "undefined") return "dark";
+  const savedTheme = window.localStorage.getItem("legal_bot_theme");
+  if (savedTheme === "light" || savedTheme === "dark") {
+    return savedTheme;
+  }
+
+  return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+};
+
 function App() {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState(null);
@@ -152,7 +162,10 @@ function App() {
   const [isSpeaking, setIsSpeaking] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [voiceStatus, setVoiceStatus] = useState("");
+  const [availableVoices, setAvailableVoices] = useState([]);
+  const [selectedVoiceName, setSelectedVoiceName] = useState("");
   const [language, setLanguage] = useState("en");
+  const [theme, setTheme] = useState(getInitialTheme);
   const speechRecognitionRef = useRef(null);
   const [history, setHistory] = useState(() => {
     try {
@@ -173,6 +186,14 @@ function App() {
   const [lawyers, setLawyers] = useState(defaultLawyers);
 
   const t = translations[language];
+  const languagePrefix = language === "hi" ? "hi" : "en";
+  const languageVoices = availableVoices.filter((voice) => voice.lang?.toLowerCase().startsWith(languagePrefix));
+  const preferredVoice = languageVoices.find((voice) => (
+    language === "en" && voice.name.toLowerCase().includes("microsoft andrew")
+  )) || languageVoices[0];
+  const activeVoiceName = languageVoices.some((voice) => voice.name === selectedVoiceName)
+    ? selectedVoiceName
+    : preferredVoice?.name || "";
 
   const loadLawyers = async () => {
     try {
@@ -193,6 +214,26 @@ function App() {
   useEffect(() => {
     localStorage.setItem("legal_bot_history", JSON.stringify(history.slice(0, 20)));
   }, [history]);
+
+  useEffect(() => {
+    if (typeof document !== "undefined") {
+      document.documentElement.style.colorScheme = theme;
+    }
+    localStorage.setItem("legal_bot_theme", theme);
+  }, [theme]);
+
+  useEffect(() => {
+    if (!("speechSynthesis" in window)) return undefined;
+
+    const loadVoices = () => {
+      setAvailableVoices(window.speechSynthesis.getVoices());
+    };
+
+    loadVoices();
+    window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
+
+    return () => window.speechSynthesis.removeEventListener("voiceschanged", loadVoices);
+  }, []);
 
   useEffect(() => {
     const timer = window.setTimeout(() => {
@@ -295,7 +336,7 @@ function App() {
     return `नमस्ते। ${translatedTopic} पर सामान्य कानूनी सूचना। कृपया किसी योग्य वकील से सलाह लें।`;
   };
 
-  const askQuestion = async (text = question) => {
+  const askQuestion = async (text = question, responseLanguage = language) => {
     const finalQuestion = text.trim();
 
     if (!finalQuestion) return;
@@ -311,7 +352,7 @@ function App() {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ question: finalQuestion }),
+        body: JSON.stringify({ question: finalQuestion, language: responseLanguage }),
       });
 
       if (!response.ok) {
@@ -343,6 +384,17 @@ function App() {
     }
   };
 
+  const changeLanguage = (nextLanguage) => {
+    setLanguage(nextLanguage);
+    if (answer && question.trim()) {
+      askQuestion(question, nextLanguage);
+    }
+  };
+
+  const toggleTheme = () => {
+    setTheme((currentTheme) => (currentTheme === "dark" ? "light" : "dark"));
+  };
+
   const newQuestion = () => {
     window.speechSynthesis?.cancel();
     setIsSpeaking(false);
@@ -372,16 +424,13 @@ function App() {
 
     const speechText = getSpeechText(answer);
     const utterance = new SpeechSynthesisUtterance(speechText);
-    const speechVoices = window.speechSynthesis.getVoices();
-    const preferredVoice = speechVoices.find((voice) => (
-      voice.lang && voice.lang.toLowerCase().startsWith(language === "hi" ? "hi" : "en")
-    ));
+    const speechVoice = languageVoices.find((voice) => voice.name === activeVoiceName) || preferredVoice;
 
     utterance.lang = language === "hi" ? "hi-IN" : "en-IN";
     utterance.rate = language === "hi" ? 0.9 : 0.95;
     utterance.pitch = language === "hi" ? 1.05 : 1;
-    if (preferredVoice) {
-      utterance.voice = preferredVoice;
+    if (speechVoice) {
+      utterance.voice = speechVoice;
     }
     utterance.onend = () => setIsSpeaking(false);
     utterance.onerror = () => setIsSpeaking(false);
@@ -501,7 +550,7 @@ function App() {
   };
 
   return (
-    <div className="app">
+    <div className="app" data-theme={theme}>
       <nav className="navbar">
         <div className="logo" onClick={newQuestion}>
           <div className="logo-mark">⚖</div>
@@ -515,10 +564,13 @@ function App() {
           <button className="nav-link" onClick={() => openSection("how")}>{language === "hi" ? "यह कैसे काम करता है" : "How it works"}</button>
           <button className="nav-link" onClick={() => openSection("about")}>{language === "hi" ? "हमारे बारे में" : "About"}</button>
           <button className="nav-link" onClick={() => openSection("hire")}>{language === "hi" ? "वकील लें" : "Hire a Lawyer"}</button>
-          <button className="language-toggle" onClick={() => setLanguage((current) => (current === "en" ? "hi" : "en"))}>
+          <button className="language-toggle" onClick={() => changeLanguage(language === "en" ? "hi" : "en")}>
             {language === "en" ? "हिंदी" : "English"}
           </button>
-          <button className="nav-button" onClick={newQuestion}>{t.newQuestion}</button>
+          <button className="theme-toggle" type="button" onClick={toggleTheme} aria-label="Toggle color theme">
+            {theme === "dark" ? "☀️ Light" : "🌙 Dark"}
+          </button>
+          <button className="nav-button" type="button" onClick={newQuestion}>{t.newQuestion}</button>
         </div>
       </nav>
 
@@ -729,7 +781,21 @@ function App() {
           <section className="quick-answer">
             <div className="quick-top">
               <div className="quick-title"><span className="spark">✦</span>{language === "hi" ? "तुरंत जवाब" : "QUICK ANSWER"}</div>
-              <button className="listen-button" onClick={toggleSpeech}>{isSpeaking ? (language === "hi" ? "■ रोकें" : "■ Stop") : (language === "hi" ? "🔊 सुनें" : "🔊 Listen")}</button>
+              <div className="speech-controls">
+                <select
+                  className="voice-select"
+                  value={activeVoiceName}
+                  onChange={(event) => setSelectedVoiceName(event.target.value)}
+                  aria-label={language === "hi" ? "वाचक चुनें" : "Choose narrator"}
+                  disabled={availableVoices.length === 0}
+                >
+                  {languageVoices.map((voice) => (
+                    <option key={`${voice.name}-${voice.lang}`} value={voice.name}>{voice.name}</option>
+                  ))}
+                  {availableVoices.length === 0 && <option value="">{language === "hi" ? "वाचक लोड हो रहा है" : "Loading narrator"}</option>}
+                </select>
+                <button className="listen-button" onClick={toggleSpeech}>{isSpeaking ? (language === "hi" ? "■ रोकें" : "■ Stop") : (language === "hi" ? "🔊 सुनें" : "🔊 Listen")}</button>
+              </div>
             </div>
             <p>{answer.quickAnswer}</p>
             <div className="robot-note">

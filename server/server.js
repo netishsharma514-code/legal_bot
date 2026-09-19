@@ -214,6 +214,7 @@ app.post("/api/ask", async (req, res) => {
       typeof req.body.question === "string"
         ? req.body.question.trim()
         : "";
+      const language = req.body.language === "hi" ? "hi" : "en";
 
     if (!question) {
       return res.status(400).json({
@@ -222,7 +223,7 @@ app.post("/api/ask", async (req, res) => {
     }
 
     const modelResult =
-      await mlService.answer(question);
+      await mlService.answer(question, language);
 
     const answer = modelResult.answer;
 
@@ -230,6 +231,8 @@ app.post("/api/ask", async (req, res) => {
       id: Date.now().toString(),
 
       question,
+
+      language,
 
       ...answer,
 
@@ -285,6 +288,7 @@ app.post(
         typeof req.body.question === "string"
           ? req.body.question.trim()
           : "";
+          const language = req.body.language === "hi" ? "hi" : "en";
 
       if (!question) {
         return res.status(400).json({
@@ -294,7 +298,7 @@ app.post(
       }
 
       const modelResult =
-        await mlService.answer(question);
+        await mlService.answer(question, language);
 
       const answer =
         modelResult.answer;
