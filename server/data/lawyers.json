@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Adv. Neha Sharma",
+    "city": "Delhi",
+    "specialization": "Domestic Violence & Family Law",
+    "experience": "8 years",
+    "phone": "+91 98100 11223",
+    "availability": "Mon-Sat",
+    "rating": "4.9/5"
+  },
+  {
+    "id": 2,
+    "name": "Adv. Arjun Mehta",
+    "city": "Mumbai",
+    "specialization": "Employment & Wage Disputes",
+    "experience": "10 years",
+    "phone": "+91 98220 44551",
+    "availability": "Tue-Sun",
+    "rating": "4.8/5"
+  },
+  {
+    "id": 3,
+    "name": "Adv. Sana Khan",
+    "city": "Bengaluru",
+    "specialization": "Cyber Crime & Online Fraud",
+    "experience": "6 years",
+    "phone": "+91 93411 68972",
+    "availability": "Mon-Fri",
+    "rating": "4.7/5"
+  }
+]

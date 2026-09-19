@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "cons-article-19",
+    "act": "Constitution of India",
+    "section": "Article 19",
+    "title": {
+      "en": "Freedom of speech and expression and other freedoms",
+      "hi": "भाषण और अभिव्यक्ति की स्वतंत्रता तथा अन्य स्वतंत्रताएँ",
+      "hinglish": "Baat rakhne aur expression ki freedom aur doosri azaadiyan"
+    },
+    "keywords": {
+      "en": [
+        "rights",
+        "speech",
+        "expression",
+        "citizen",
+        "freedom",
+        "liberty",
+        "basic rights"
+      ],
+      "hi": [
+        "अधिकार",
+        "भाषण",
+        "अभिव्यक्ति",
+        "नागरिक",
+        "स्वतंत्रता"
+      ],
+      "hinglish": [
+        "rights",
+        "speech",
+        "expression",
+        "citizen",
+        "freedom",
+        "liberty",
+        "basic rights"
+      ]
+    },
+    "summary": {
+      "en": "Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution.",
+      "hi": "अनुच्छेद 19 नागरिकों की कुछ स्वतंत्रताओं की रक्षा करता है, जिनमें भाषण और अभिव्यक्ति, आवागमन, निवास तथा व्यापार और व्यवसाय की स्वतंत्रता शामिल हैं। इन स्वतंत्रताओं पर संविधान के अनुसार उचित प्रतिबंध लगाए जा सकते हैं।",
+      "hinglish": "Article 19 citizens ki kuch freedoms ko protect karta hai, jisme speech aur expression, movement, residence aur trade aur occupation ki freedom shamil hain. Constitution ke according in par reasonable restrictions lag sakte hain."
+    },
+    "currentStatus": {
+      "en": "This is a constitutional provision. For a specific case, apply the relevant constitutional limits and legal exceptions with a qualified lawyer.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution.",
+      "hi": "अनुच्छेद 19 नागरिकों की कुछ स्वतंत्रताओं की रक्षा करता है, जिनमें भाषण और अभिव्यक्ति, आवागमन, निवास तथा व्यापार और व्यवसाय की स्वतंत्रता शामिल हैं। इन स्वतंत्रताओं पर संविधान के अनुसार उचित प्रतिबंध लगाए जा सकते हैं।",
+      "hinglish": "Article 19 citizens ki kuch freedoms ko protect karta hai, jisme speech aur expression, movement, residence aur trade aur occupation ki freedom shamil hain. Constitution ke according in par reasonable restrictions lag sakte hain."
+    },
+    "source": "Constitution of India",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "cons-article-21",
+    "act": "Constitution of India",
+    "section": "Article 21",
+    "title": {
+      "en": "Protection of life and personal liberty",
+      "hi": "जीवन और व्यक्तिगत स्वतंत्रता का संरक्षण",
+      "hinglish": "Jeevan aur personal liberty ki protection"
+    },
+    "keywords": {
+      "en": [
+        "life",
+        "liberty",
+        "personal liberty",
+        "fair procedure",
+        "due process",
+        "rights"
+      ],
+      "hi": [
+        "स्वतंत्रता",
+        "अधिकार"
+      ],
+      "hinglish": [
+        "life",
+        "liberty",
+        "personal liberty",
+        "fair procedure",
+        "due process",
+        "rights"
+      ]
+    },
+    "summary": {
+      "en": "Article 21 guarantees that no person shall be deprived of life or personal liberty except according to law and with due process under the Constitution.",
+      "hi": "अनुच्छेद 21 यह सुनिश्चित करता है कि किसी व्यक्ति को कानून द्वारा निर्धारित प्रक्रिया के अलावा उसके जीवन या व्यक्तिगत स्वतंत्रता से वंचित नहीं किया जाएगा।",
+      "hinglish": "Article 21 guarantee karta hai ki kisi person ko law ke according procedure ke bina life ya personal liberty se deprived nahi kiya ja sakta."
+    },
+    "currentStatus": {
+      "en": "This is a foundational constitutional guarantee; current procedural and criminal law issues should be checked against the relevant statute and case law.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Article 21 guarantees that no person shall be deprived of life or personal liberty except according to law and with due process under the Constitution.",
+      "hi": "अनुच्छेद 21 यह सुनिश्चित करता है कि किसी व्यक्ति को कानून द्वारा निर्धारित प्रक्रिया के अलावा उसके जीवन या व्यक्तिगत स्वतंत्रता से वंचित नहीं किया जाएगा।",
+      "hinglish": "Article 21 guarantee karta hai ki kisi person ko law ke according procedure ke bina life ya personal liberty se deprived nahi kiya ja sakta."
+    },
+    "source": "Constitution of India",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "cons-article-22",
+    "act": "Constitution of India",
+    "section": "Article 22",
+    "title": {
+      "en": "Protection against arrest and detention",
+      "hi": "गिरफ्तारी और हिरासत से संरक्षण",
+      "hinglish": "Arrest aur detention se protection"
+    },
+    "keywords": {
+      "en": [
+        "arrest",
+        "detained",
+        "detention",
+        "police",
+        "grounds of arrest",
+        "lawyer",
+        "magistrate",
+        "24 hours"
+      ],
+      "hi": [
+        "गिरफ्तारी",
+        "पुलिस",
+        "वकील"
+      ],
+      "hinglish": [
+        "arrest",
+        "detained",
+        "detention",
+        "police",
+        "grounds of arrest",
+        "lawyer",
+        "magistrate",
+        "24 hours"
+      ]
+    },
+    "summary": {
+      "en": "Article 22 requires that a person who is arrested be informed of the grounds of arrest and generally has the right to consult and be defended by a legal practitioner of choice. A person arrested must ordinarily be produced before a magistrate within 24 hours.",
+      "hi": "अनुच्छेद 22 के तहत गिरफ्तार व्यक्ति को गिरफ्तारी के आधार की जानकारी देने और सामान्यतः अपनी पसंद के कानूनी पेशेवर से सलाह तथा बचाव का अधिकार है। गिरफ्तार व्यक्ति को सामान्यतः 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किया जाना चाहिए।",
+      "hinglish": "Article 22 ke under arrested person ko arrest ke grounds batane aur generally apni choice ke lawyer se advice aur defence lene ka right hota hai. Arrested person ko normally 24 hours ke andar magistrate ke saamne produce karna hota hai."
+    },
+    "currentStatus": {
+      "en": "This constitutional protection is important in police and detention matters; the exact procedure depends on the facts and the applicable criminal law.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Article 22 requires that a person who is arrested be informed of the grounds of arrest and generally has the right to consult and be defended by a legal practitioner of choice. A person arrested must ordinarily be produced before a magistrate within 24 hours.",
+      "hi": "अनुच्छेद 22 के तहत गिरफ्तार व्यक्ति को गिरफ्तारी के आधार की जानकारी देने और सामान्यतः अपनी पसंद के कानूनी पेशेवर से सलाह तथा बचाव का अधिकार है। गिरफ्तार व्यक्ति को सामान्यतः 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किया जाना चाहिए।",
+      "hinglish": "Article 22 ke under arrested person ko arrest ke grounds batane aur generally apni choice ke lawyer se advice aur defence lene ka right hota hai. Arrested person ko normally 24 hours ke andar magistrate ke saamne produce karna hota hai."
+    },
+    "source": "Constitution of India",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bnss-arrest-procedure",
+    "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "section": "Arrest procedure",
+    "title": {
+      "en": "Arrest, custody, and production before a magistrate",
+      "hi": "गिरफ्तारी, हिरासत और मजिस्ट्रेट के सामने पेश करने की प्रक्रिया",
+      "hinglish": "Arrest, custody aur magistrate ke saamne production ki procedure"
+    },
+    "keywords": {
+      "en": [
+        "arrest",
+        "police",
+        "custody",
+        "detained",
+        "magistrate",
+        "grounds of arrest",
+        "lawyer"
+      ],
+      "hi": [
+        "गिरफ्तारी",
+        "पुलिस",
+        "वकील"
+      ],
+      "hinglish": [
+        "arrest",
+        "police",
+        "custody",
+        "detained",
+        "magistrate",
+        "grounds of arrest",
+        "lawyer"
+      ]
+    },
+    "summary": {
+      "en": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+      "hi": "आपराधिक प्रक्रिया कानून गिरफ्तारी, हिरासत और मजिस्ट्रेट के सामने पेश करने से संबंधित सुरक्षा उपायों तथा आरोपी व्यक्तियों के कानूनी अधिकारों और जांच एजेंसियों की भूमिका का ढांचा निर्धारित करता है।",
+      "hinglish": "Criminal procedure law arrest, custody aur magistrate ke saamne production ke safeguards ke saath accused ke legal rights aur investigation agencies ki role ko define karta hai."
+    },
+    "currentStatus": {
+      "en": "Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+      "hi": "आपराधिक प्रक्रिया कानून गिरफ्तारी, हिरासत और मजिस्ट्रेट के सामने पेश करने से संबंधित सुरक्षा उपायों तथा आरोपी व्यक्तियों के कानूनी अधिकारों और जांच एजेंसियों की भूमिका का ढांचा निर्धारित करता है।",
+      "hinglish": "Criminal procedure law arrest, custody aur magistrate ke saamne production ke safeguards ke saath accused ke legal rights aur investigation agencies ki role ko define karta hai."
+    },
+    "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-34",
+    "act": "Indian Penal Code, 1860",
+    "section": "34",
+    "title": {
+      "en": "Acts done by several persons in furtherance of common intention",
+      "hi": "सामान्य आशय को आगे बढ़ाने में कई व्यक्तियों द्वारा किए गए कार्य",
+      "hinglish": "Common intention ke liye kai logon dwara kiye gaye acts"
+    },
+    "keywords": {
+      "en": [
+        "common intention",
+        "shared intention",
+        "joint liability",
+        "group act",
+        "criminal act"
+      ],
+      "hi": [],
+      "hinglish": [
+        "common intention",
+        "shared intention",
+        "joint liability",
+        "group act",
+        "criminal act"
+      ]
+    },
+    "summary": {
+      "en": "When a criminal act is done by several persons in furtherance of the common intention of all, each person may be liable for the act as if done by that person alone.",
+      "hi": "जब कई व्यक्ति सभी के सामान्य आशय को आगे बढ़ाने के लिए कोई आपराधिक कार्य करते हैं, तो प्रत्येक व्यक्ति उस कार्य के लिए ऐसे उत्तरदायी हो सकता है जैसे वह कार्य उसी ने अकेले किया हो।",
+      "hinglish": "Jab kai log common intention ko aage badhane ke liye criminal act karte hain, to har person us act ke liye aise liable ho sakta hai jaise usne woh act akela kiya ho."
+    },
+    "currentStatus": {
+      "en": "IPC is repealed for offences committed after 1 July 2024; the corresponding current-law provision must be verified under the Bharatiya Nyaya Sanhita, 2023.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "When a criminal act is done by several persons in furtherance of the common intention of all, each person may be liable for the act as if done by that person alone.",
+      "hi": "जब कई व्यक्ति सभी के सामान्य आशय को आगे बढ़ाने के लिए कोई आपराधिक कार्य करते हैं, तो प्रत्येक व्यक्ति उस कार्य के लिए ऐसे उत्तरदायी हो सकता है जैसे वह कार्य उसी ने अकेले किया हो।",
+      "hinglish": "Jab kai log common intention ko aage badhane ke liye criminal act karte hain, to har person us act ke liye aise liable ho sakta hai jaise usne woh act akela kiya ho."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-302",
+    "act": "Indian Penal Code, 1860",
+    "section": "302",
+    "title": {
+      "en": "Punishment for murder",
+      "hi": "हत्या के लिए दंड",
+      "hinglish": "Murder ke liye punishment"
+    },
+    "keywords": {
+      "en": [
+        "murder",
+        "homicide",
+        "killing",
+        "death",
+        "violent crime"
+      ],
+      "hi": [
+        "हत्या"
+      ],
+      "hinglish": [
+        "murder",
+        "homicide",
+        "killing",
+        "death",
+        "violent crime"
+      ]
+    },
+    "summary": {
+      "en": "Section 302 prescribed punishment for murder under the IPC.",
+      "hi": "भारतीय दंड संहिता की धारा 302 में हत्या के लिए दंड का प्रावधान था।",
+      "hinglish": "IPC Section 302 mein murder ke liye punishment ka provision tha."
+    },
+    "currentStatus": {
+      "en": "For offences governed by current law after 1 July 2024, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 103(1), with a lawyer or official text.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 302 prescribed punishment for murder under the IPC.",
+      "hi": "भारतीय दंड संहिता की धारा 302 में हत्या के लिए दंड का प्रावधान था।",
+      "hinglish": "IPC Section 302 mein murder ke liye punishment ka provision tha."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-304a",
+    "act": "Indian Penal Code, 1860",
+    "section": "304A",
+    "title": {
+      "en": "Causing death by negligence",
+      "hi": "लापरवाही से मृत्यु कारित करना",
+      "hinglish": "Negligence se death cause karna"
+    },
+    "keywords": {
+      "en": [
+        "negligent death",
+        "death by negligence",
+        "rash driving",
+        "accident death",
+        "careless driving"
+      ],
+      "hi": [],
+      "hinglish": [
+        "negligent death",
+        "death by negligence",
+        "rash driving",
+        "accident death",
+        "careless driving"
+      ]
+    },
+    "summary": {
+      "en": "Section 304A addressed causing death by a rash or negligent act not amounting to culpable homicide.",
+      "hi": "धारा 304A में ऐसे उतावले या लापरवाह कृत्य से मृत्यु कारित करने से संबंधित प्रावधान था जो गैर-इरादतन हत्या की श्रेणी में नहीं आता।",
+      "hinglish": "Section 304A mein rash ya negligent act se death cause karne ka provision tha, jab woh culpable homicide nahi hota."
+    },
+    "currentStatus": {
+      "en": "IPC is repealed for current offences; verify the applicable Bharatiya Nyaya Sanhita provision and any special transport-law provisions.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 304A addressed causing death by a rash or negligent act not amounting to culpable homicide.",
+      "hi": "धारा 304A में ऐसे उतावले या लापरवाह कृत्य से मृत्यु कारित करने से संबंधित प्रावधान था जो गैर-इरादतन हत्या की श्रेणी में नहीं आता।",
+      "hinglish": "Section 304A mein rash ya negligent act se death cause karne ka provision tha, jab woh culpable homicide nahi hota."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-307",
+    "act": "Indian Penal Code, 1860",
+    "section": "307",
+    "title": {
+      "en": "Attempt to murder",
+      "hi": "हत्या का प्रयास",
+      "hinglish": "Murder ka attempt"
+    },
+    "keywords": {
+      "en": [
+        "attempt murder",
+        "attempt to kill",
+        "murder attempt",
+        "serious attack",
+        "attack"
+      ],
+      "hi": [],
+      "hinglish": [
+        "attempt murder",
+        "attempt to kill",
+        "murder attempt",
+        "serious attack",
+        "attack"
+      ]
+    },
+    "summary": {
+      "en": "Section 307 addressed an act done with such intention or knowledge, and in circumstances, that if death were caused the act would amount to murder.",
+      "hi": "धारा 307 ऐसे कार्य से संबंधित थी जिसमें व्यक्ति की मंशा या जानकारी और परिस्थितियाँ ऐसी हों कि मृत्यु होने पर वह कार्य हत्या माना जाता।",
+      "hinglish": "Section 307 us act se related thi jahan intention ya knowledge aur circumstances aise hon ki death hone par woh act murder hota."
+    },
+    "currentStatus": {
+      "en": "For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 109, from the official text.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 307 addressed an act done with such intention or knowledge, and in circumstances, that if death were caused the act would amount to murder.",
+      "hi": "धारा 307 ऐसे कार्य से संबंधित थी जिसमें व्यक्ति की मंशा या जानकारी और परिस्थितियाँ ऐसी हों कि मृत्यु होने पर वह कार्य हत्या माना जाता।",
+      "hinglish": "Section 307 us act se related thi jahan intention ya knowledge aur circumstances aise hon ki death hone par woh act murder hota."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-354",
+    "act": "Indian Penal Code, 1860",
+    "section": "354",
+    "title": {
+      "en": "Assault or criminal force to woman with intent to outrage her modesty",
+      "hi": "महिला की गरिमा भंग करने के आशय से हमला या आपराधिक बल",
+      "hinglish": "Woman ki dignity ko outrage karne ke intention se assault ya criminal force"
+    },
+    "keywords": {
+      "en": [
+        "outrage modesty",
+        "assault woman",
+        "molestation",
+        "unwanted touching",
+        "sexual harassment"
+      ],
+      "hi": [
+        "यौन उत्पीड़न"
+      ],
+      "hinglish": [
+        "outrage modesty",
+        "assault woman",
+        "molestation",
+        "unwanted touching",
+        "sexual harassment"
+      ]
+    },
+    "summary": {
+      "en": "Section 354 addressed assault or criminal force against a woman with the specified intent.",
+      "hi": "धारा 354 किसी महिला के विरुद्ध उसकी गरिमा भंग करने के निर्दिष्ट आशय से हमला या आपराधिक बल के प्रयोग से संबंधित थी।",
+      "hinglish": "Section 354 woman ke against specified intention ke saath assault ya criminal force use karne se related thi."
+    },
+    "currentStatus": {
+      "en": "For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 74, from the official text.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 354 addressed assault or criminal force against a woman with the specified intent.",
+      "hi": "धारा 354 किसी महिला के विरुद्ध उसकी गरिमा भंग करने के निर्दिष्ट आशय से हमला या आपराधिक बल के प्रयोग से संबंधित थी।",
+      "hinglish": "Section 354 woman ke against specified intention ke saath assault ya criminal force use karne se related thi."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-376",
+    "act": "Indian Penal Code, 1860",
+    "section": "376",
+    "title": {
+      "en": "Punishment for rape",
+      "hi": "बलात्कार के लिए दंड",
+      "hinglish": "Rape ke liye punishment"
+    },
+    "keywords": {
+      "en": [
+        "rape",
+        "sexual assault",
+        "sexual violence",
+        "consent",
+        "violence"
+      ],
+      "hi": [],
+      "hinglish": [
+        "rape",
+        "sexual assault",
+        "sexual violence",
+        "consent",
+        "violence"
+      ]
+    },
+    "summary": {
+      "en": "Section 376 prescribed punishment for rape, subject to the statutory definitions and exceptions applicable at the relevant time.",
+      "hi": "धारा 376 में बलात्कार के लिए दंड का प्रावधान था, जो उस समय लागू वैधानिक परिभाषाओं और अपवादों के अधीन था।",
+      "hinglish": "Section 376 mein rape ke liye punishment ka provision tha, jo applicable statutory definitions aur exceptions ke subject tha."
+    },
+    "currentStatus": {
+      "en": "For current offences, verify the applicable Bharatiya Nyaya Sanhita provisions, including Section 64, from the official text and seek immediate legal support.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 376 prescribed punishment for rape, subject to the statutory definitions and exceptions applicable at the relevant time.",
+      "hi": "धारा 376 में बलात्कार के लिए दंड का प्रावधान था, जो उस समय लागू वैधानिक परिभाषाओं और अपवादों के अधीन था।",
+      "hinglish": "Section 376 mein rape ke liye punishment ka provision tha, jo applicable statutory definitions aur exceptions ke subject tha."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-406",
+    "act": "Indian Penal Code, 1860",
+    "section": "406",
+    "title": {
+      "en": "Punishment for criminal breach of trust",
+      "hi": "आपराधिक न्यासभंग के लिए दंड",
+      "hinglish": "Criminal breach of trust ke liye punishment"
+    },
+    "keywords": {
+      "en": [
+        "breach of trust",
+        "entrusted property",
+        "misappropriation",
+        "money entrusted",
+        "fraud"
+      ],
+      "hi": [
+        "धोखाधड़ी"
+      ],
+      "hinglish": [
+        "breach of trust",
+        "entrusted property",
+        "misappropriation",
+        "money entrusted",
+        "fraud"
+      ]
+    },
+    "summary": {
+      "en": "Section 406 provided punishment for criminal breach of trust as defined by the IPC.",
+      "hi": "धारा 406 में भारतीय दंड संहिता में परिभाषित आपराधिक न्यासभंग के लिए दंड का प्रावधान था।",
+      "hinglish": "Section 406 mein IPC ke under defined criminal breach of trust ke liye punishment ka provision tha."
+    },
+    "currentStatus": {
+      "en": "For current offences, verify the applicable Bharatiya Nyaya Sanhita provision from the official text.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 406 provided punishment for criminal breach of trust as defined by the IPC.",
+      "hi": "धारा 406 में भारतीय दंड संहिता में परिभाषित आपराधिक न्यासभंग के लिए दंड का प्रावधान था।",
+      "hinglish": "Section 406 mein IPC ke under defined criminal breach of trust ke liye punishment ka provision tha."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-420",
+    "act": "Indian Penal Code, 1860",
+    "section": "420",
+    "title": {
+      "en": "Cheating and dishonestly inducing delivery of property",
+      "hi": "धोखाधड़ी और बेईमानी से संपत्ति दिलवाना",
+      "hinglish": "Cheating aur dishonestly property dilwana"
+    },
+    "keywords": {
+      "en": [
+        "cheating",
+        "fraud",
+        "dishonest inducement",
+        "online scam",
+        "property deception",
+        "scam"
+      ],
+      "hi": [
+        "धोखाधड़ी",
+        "ऑनलाइन ठगी"
+      ],
+      "hinglish": [
+        "cheating",
+        "fraud",
+        "dishonest inducement",
+        "online scam",
+        "property deception",
+        "scam"
+      ]
+    },
+    "summary": {
+      "en": "Section 420 addressed cheating and dishonest inducement to deliver property or alter or destroy a valuable security.",
+      "hi": "धारा 420 धोखाधड़ी और बेईमानी से किसी व्यक्ति को संपत्ति देने या मूल्यवान प्रतिभूति में बदलाव या विनाश करने के लिए प्रेरित करने से संबंधित थी।",
+      "hinglish": "Section 420 cheating aur dishonest inducement se kisi person se property deliver karwane ya valuable security ko alter/destroy karwane se related thi."
+    },
+    "currentStatus": {
+      "en": "For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 318(4), from the official text. Cyber incidents may also involve the Information Technology Act.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 420 addressed cheating and dishonest inducement to deliver property or alter or destroy a valuable security.",
+      "hi": "धारा 420 धोखाधड़ी और बेईमानी से किसी व्यक्ति को संपत्ति देने या मूल्यवान प्रतिभूति में बदलाव या विनाश करने के लिए प्रेरित करने से संबंधित थी।",
+      "hinglish": "Section 420 cheating aur dishonest inducement se kisi person se property deliver karwane ya valuable security ko alter/destroy karwane se related thi."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "ipc-498a",
+    "act": "Indian Penal Code, 1860",
+    "section": "498A",
+    "title": {
+      "en": "Cruelty by husband or relatives of husband",
+      "hi": "पति या पति के रिश्तेदारों द्वारा क्रूरता",
+      "hinglish": "Husband ya husband ke relatives dwara cruelty"
+    },
+    "keywords": {
+      "en": [
+        "498a",
+        "marital cruelty",
+        "dowry harassment",
+        "husband cruelty",
+        "domestic cruelty",
+        "family violence"
+      ],
+      "hi": [],
+      "hinglish": [
+        "498a",
+        "marital cruelty",
+        "dowry harassment",
+        "husband cruelty",
+        "domestic cruelty",
+        "family violence"
+      ]
+    },
+    "summary": {
+      "en": "Section 498A addressed cruelty by a husband or relative of the husband toward a woman, as defined by the IPC.",
+      "hi": "धारा 498A महिला के प्रति उसके पति या पति के रिश्तेदार द्वारा की गई क्रूरता से संबंधित थी, जैसा कि भारतीय दंड संहिता में परिभाषित किया गया था।",
+      "hinglish": "Section 498A woman ke against husband ya husband ke relatives dwara ki gayi cruelty se related thi, jaisa IPC mein defined tha."
+    },
+    "currentStatus": {
+      "en": "For current offences, verify the applicable Bharatiya Nyaya Sanhita provisions, commonly identified as Sections 85 and 86, from the official text.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 498A addressed cruelty by a husband or relative of the husband toward a woman, as defined by the IPC.",
+      "hi": "धारा 498A महिला के प्रति उसके पति या पति के रिश्तेदार द्वारा की गई क्रूरता से संबंधित थी, जैसा कि भारतीय दंड संहिता में परिभाषित किया गया था।",
+      "hinglish": "Section 498A woman ke against husband ya husband ke relatives dwara ki gayi cruelty se related thi, jaisa IPC mein defined tha."
+    },
+    "source": "Indian Penal Code, 1860",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "consumer-rights",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Consumer rights",
+    "title": {
+      "en": "Rights of consumers against defective goods and unfair trade practice",
+      "hi": "दोषपूर्ण वस्तुओं और अनुचित व्यापार व्यवहार के विरुद्ध उपभोक्ता अधिकार",
+      "hinglish": "Defective goods aur unfair trade practice ke against consumer rights"
+    },
+    "keywords": {
+      "en": [
+        "consumer",
+        "defective product",
+        "refund",
+        "complaint",
+        "unfair trade",
+        "service issue",
+        "product defect"
+      ],
+      "hi": [
+        "उपभोक्ता",
+        "रिफंड",
+        "शिकायत"
+      ],
+      "hinglish": [
+        "consumer",
+        "defective product",
+        "refund",
+        "complaint",
+        "unfair trade",
+        "service issue",
+        "product defect"
+      ]
+    },
+    "summary": {
+      "en": "The Consumer Protection Act, 2019, gives rights to consumers against unfair trade practices, defective goods, deficient services, and misleading advertising.",
+      "hi": "उपभोक्ता संरक्षण अधिनियम, 2019 उपभोक्ताओं को अनुचित व्यापार व्यवहार, दोषपूर्ण वस्तुओं, सेवाओं में कमी और भ्रामक विज्ञापनों के विरुद्ध अधिकार देता है।",
+      "hinglish": "Consumer Protection Act, 2019 consumers ko unfair trade practices, defective goods, deficient services aur misleading advertisements ke against rights deta hai."
+    },
+    "currentStatus": {
+      "en": "The exact remedy depends on the facts, the goods or service involved, and the relevant consumer forum. Consult a lawyer or local consumer forum for a case-specific view.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The Consumer Protection Act, 2019, gives rights to consumers against unfair trade practices, defective goods, deficient services, and misleading advertising.",
+      "hi": "उपभोक्ता संरक्षण अधिनियम, 2019 उपभोक्ताओं को अनुचित व्यापार व्यवहार, दोषपूर्ण वस्तुओं, सेवाओं में कमी और भ्रामक विज्ञापनों के विरुद्ध अधिकार देता है।",
+      "hinglish": "Consumer Protection Act, 2019 consumers ko unfair trade practices, defective goods, deficient services aur misleading advertisements ke against rights deta hai."
+    },
+    "source": "Consumer Protection Act, 2019",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "rti-rights",
+    "act": "Right to Information Act, 2005",
+    "section": "RTI",
+    "title": {
+      "en": "Right to access information from public authorities",
+      "hi": "लोक प्राधिकरणों से सूचना प्राप्त करने का अधिकार",
+      "hinglish": "Public authorities se information lene ka right"
+    },
+    "keywords": {
+      "en": [
+        "rti",
+        "right to information",
+        "government records",
+        "public authority",
+        "information",
+        "transparency"
+      ],
+      "hi": [
+        "सूचना का अधिकार",
+        "सूचना"
+      ],
+      "hinglish": [
+        "rti",
+        "right to information",
+        "government records",
+        "public authority",
+        "information",
+        "transparency"
+      ]
+    },
+    "summary": {
+      "en": "The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life.",
+      "hi": "RTI अधिनियम नागरिकों को सार्वजनिक प्राधिकरणों से सूचना मांगने की अनुमति देता है, जिससे पारदर्शिता, जवाबदेही और सार्वजनिक जीवन में सूचित भागीदारी को बढ़ावा मिलता है।",
+      "hinglish": "RTI Act citizens ko public authorities se information maangne ka right deta hai, jisse transparency aur accountability promote hoti hai."
+    },
+    "currentStatus": {
+      "en": "The exact procedure for filing an RTI application depends on the authority and the nature of the information sought.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life.",
+      "hi": "RTI अधिनियम नागरिकों को सार्वजनिक प्राधिकरणों से सूचना मांगने की अनुमति देता है, जिससे पारदर्शिता, जवाबदेही और सार्वजनिक जीवन में सूचित भागीदारी को बढ़ावा मिलता है।",
+      "hinglish": "RTI Act citizens ko public authorities se information maangne ka right deta hai, jisse transparency aur accountability promote hoti hai."
+    },
+    "source": "Right to Information Act, 2005",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "it-fraud",
+    "act": "Information Technology Act, 2000",
+    "section": "66C and 66D",
+    "title": {
+      "en": "Identity theft, cheating by personation, and online fraud",
+      "hi": "पहचान की चोरी, प्रतिरूपण द्वारा धोखाधड़ी और ऑनलाइन धोखाधड़ी",
+      "hinglish": "Identity theft, impersonation cheating aur online fraud"
+    },
+    "keywords": {
+      "en": [
+        "cyber fraud",
+        "online scam",
+        "identity theft",
+        "phishing",
+        "fraud",
+        "banking scam",
+        "digital cheating"
+      ],
+      "hi": [
+        "साइबर धोखाधड़ी",
+        "ऑनलाइन ठगी",
+        "धोखाधड़ी"
+      ],
+      "hinglish": [
+        "cyber fraud",
+        "online scam",
+        "identity theft",
+        "phishing",
+        "fraud",
+        "banking scam",
+        "digital cheating"
+      ]
+    },
+    "summary": {
+      "en": "The IT Act addresses offences involving identity theft, cheating by personation, and fraudulent online conduct that affects digital systems and electronic transactions.",
+      "hi": "आईटी अधिनियम पहचान की चोरी, प्रतिरूपण द्वारा धोखाधड़ी और डिजिटल प्रणालियों तथा इलेक्ट्रॉनिक लेनदेन से जुड़ी धोखाधड़ीपूर्ण ऑनलाइन गतिविधियों से संबंधित अपराधों को संबोधित करता है।",
+      "hinglish": "IT Act identity theft, impersonation cheating aur digital systems aur electronic transactions se related fraudulent online activities ko address karta hai."
+    },
+    "currentStatus": {
+      "en": "Cyber incidents may also involve Indian Penal Code provisions and the need for prompt reporting to the platform and relevant authorities.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The IT Act addresses offences involving identity theft, cheating by personation, and fraudulent online conduct that affects digital systems and electronic transactions.",
+      "hi": "आईटी अधिनियम पहचान की चोरी, प्रतिरूपण द्वारा धोखाधड़ी और डिजिटल प्रणालियों तथा इलेक्ट्रॉनिक लेनदेन से जुड़ी धोखाधड़ीपूर्ण ऑनलाइन गतिविधियों से संबंधित अपराधों को संबोधित करता है।",
+      "hinglish": "IT Act identity theft, impersonation cheating aur digital systems aur electronic transactions se related fraudulent online activities ko address karta hai."
+    },
+    "source": "Information Technology Act, 2000",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "property-rights",
+    "act": "Transfer of Property Act, 1882",
+    "section": "Property rights",
+    "title": {
+      "en": "Property transfer and rights in immovable property",
+      "hi": "संपत्ति हस्तांतरण और अचल संपत्ति के अधिकार",
+      "hinglish": "Property transfer aur immovable property rights"
+    },
+    "keywords": {
+      "en": [
+        "property",
+        "land",
+        "house",
+        "ownership",
+        "transfer",
+        "sale deed",
+        "dispute",
+        "title"
+      ],
+      "hi": [
+        "संपत्ति",
+        "जमीन",
+        "मकान",
+        "स्वामित्व"
+      ],
+      "hinglish": [
+        "property",
+        "land",
+        "house",
+        "ownership",
+        "transfer",
+        "sale deed",
+        "dispute",
+        "title"
+      ]
+    },
+    "summary": {
+      "en": "Property law governs transfer, ownership rights, and disputes involving land, house property, and immovable assets, including the role of title, registration, and lawful transfer.",
+      "hi": "संपत्ति कानून भूमि, मकान और अन्य अचल संपत्तियों के हस्तांतरण, स्वामित्व अधिकारों और विवादों को नियंत्रित करता है। इसमें स्वामित्व, पंजीकरण और वैध हस्तांतरण की भूमिका महत्वपूर्ण है।",
+      "hinglish": "Property law land, house aur immovable property ke transfer, ownership rights aur disputes ko govern karta hai. Title, registration aur lawful transfer important hote hain."
+    },
+    "currentStatus": {
+      "en": "Property disputes are fact-specific. The exact legal remedy depends on documents, title, possession, and applicable local law.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Property law governs transfer, ownership rights, and disputes involving land, house property, and immovable assets, including the role of title, registration, and lawful transfer.",
+      "hi": "संपत्ति कानून भूमि, मकान और अन्य अचल संपत्तियों के हस्तांतरण, स्वामित्व अधिकारों और विवादों को नियंत्रित करता है। इसमें स्वामित्व, पंजीकरण और वैध हस्तांतरण की भूमिका महत्वपूर्ण है।",
+      "hinglish": "Property law land, house aur immovable property ke transfer, ownership rights aur disputes ko govern karta hai. Title, registration aur lawful transfer important hote hain."
+    },
+    "source": "Transfer of Property Act, 1882",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "property-registration",
+    "act": "Registration Act, 1908",
+    "section": "Registration",
+    "title": {
+      "en": "Registration and proof of property documents",
+      "hi": "संपत्ति दस्तावेजों का पंजीकरण और प्रमाण",
+      "hinglish": "Property documents ki registration aur proof"
+    },
+    "keywords": {
+      "en": [
+        "registration",
+        "sale deed",
+        "property documents",
+        "title",
+        "land records",
+        "house"
+      ],
+      "hi": [
+        "मकान"
+      ],
+      "hinglish": [
+        "registration",
+        "sale deed",
+        "property documents",
+        "title",
+        "land records",
+        "house"
+      ]
+    },
+    "summary": {
+      "en": "Registration and records are important for proving and validating property transactions, title, and ownership claims in land and immovable property matters.",
+      "hi": "भूमि और अचल संपत्ति से जुड़े लेनदेन, स्वामित्व और दावों को प्रमाणित करने के लिए पंजीकरण और रिकॉर्ड महत्वपूर्ण हैं।",
+      "hinglish": "Land aur immovable property transactions, ownership aur claims ko prove aur validate karne ke liye registration aur records important hain."
+    },
+    "currentStatus": {
+      "en": "Document and title verification are essential; consult a qualified lawyer for a case-specific review of property records.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Registration and records are important for proving and validating property transactions, title, and ownership claims in land and immovable property matters.",
+      "hi": "भूमि और अचल संपत्ति से जुड़े लेनदेन, स्वामित्व और दावों को प्रमाणित करने के लिए पंजीकरण और रिकॉर्ड महत्वपूर्ण हैं।",
+      "hinglish": "Land aur immovable property transactions, ownership aur claims ko prove aur validate karne ke liye registration aur records important hain."
+    },
+    "source": "Registration Act, 1908",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "cons-article-14",
+    "act": "Constitution of India",
+    "section": "Article 14",
+    "title": {
+      "en": "Equality before the law",
+      "hi": "कानून के समक्ष समानता",
+      "hinglish": "Law ke saamne equality"
+    },
+    "keywords": {
+      "en": [
+        "equality",
+        "equal protection",
+        "law",
+        "rights",
+        "constitutional guarantee",
+        "fair treatment"
+      ],
+      "hi": [
+        "अधिकार"
+      ],
+      "hinglish": [
+        "equality",
+        "equal protection",
+        "law",
+        "rights",
+        "constitutional guarantee",
+        "fair treatment"
+      ]
+    },
+    "summary": {
+      "en": "Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action.",
+      "hi": "अनुच्छेद 14 कानून के समक्ष समानता और कानूनों के समान संरक्षण की गारंटी देता है तथा राज्य की कार्रवाई को उचित और गैर-मनमाना होने की आवश्यकता रखता है।",
+      "hinglish": "Article 14 law ke saamne equality aur laws ke equal protection ki guarantee deta hai aur state action ko reasonable aur non-arbitrary hona chahiye."
+    },
+    "currentStatus": {
+      "en": "This is a constitutional guarantee; the application depends on the facts and relevant legal context.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action.",
+      "hi": "अनुच्छेद 14 कानून के समक्ष समानता और कानूनों के समान संरक्षण की गारंटी देता है तथा राज्य की कार्रवाई को उचित और गैर-मनमाना होने की आवश्यकता रखता है।",
+      "hinglish": "Article 14 law ke saamne equality aur laws ke equal protection ki guarantee deta hai aur state action ko reasonable aur non-arbitrary hona chahiye."
+    },
+    "source": "Constitution of India",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "cons-article-32",
+    "act": "Constitution of India",
+    "section": "Article 32",
+    "title": {
+      "en": "Right to move the Supreme Court for enforcement of fundamental rights",
+      "hi": "मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय जाने का अधिकार",
+      "hinglish": "Fundamental rights enforce karne ke liye Supreme Court jaane ka right"
+    },
+    "keywords": {
+      "en": [
+        "remedy",
+        "constitutional remedy",
+        "fundamental rights",
+        "supreme court",
+        "court access"
+      ],
+      "hi": [],
+      "hinglish": [
+        "remedy",
+        "constitutional remedy",
+        "fundamental rights",
+        "supreme court",
+        "court access"
+      ]
+    },
+    "summary": {
+      "en": "Article 32 provides a direct constitutional remedy for enforcement of fundamental rights. It is an important safeguard in legal disputes involving rights violations.",
+      "hi": "अनुच्छेद 32 मौलिक अधिकारों के प्रवर्तन के लिए सीधे संवैधानिक उपाय का प्रावधान करता है। यह अधिकारों के उल्लंघन से जुड़े विवादों में एक महत्वपूर्ण सुरक्षा है।",
+      "hinglish": "Article 32 fundamental rights enforce karne ke liye direct constitutional remedy provide karta hai. Rights violation ke matters mein yeh important safeguard hai."
+    },
+    "currentStatus": {
+      "en": "This constitutional remedy is available within the framework of the Constitution; legal advice should be sought for specific cases.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Article 32 provides a direct constitutional remedy for enforcement of fundamental rights. It is an important safeguard in legal disputes involving rights violations.",
+      "hi": "अनुच्छेद 32 मौलिक अधिकारों के प्रवर्तन के लिए सीधे संवैधानिक उपाय का प्रावधान करता है। यह अधिकारों के उल्लंघन से जुड़े विवादों में एक महत्वपूर्ण सुरक्षा है।",
+      "hinglish": "Article 32 fundamental rights enforce karne ke liye direct constitutional remedy provide karta hai. Rights violation ke matters mein yeh important safeguard hai."
+    },
+    "source": "Constitution of India",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "cons-article-51a",
+    "act": "Constitution of India",
+    "section": "Article 51A",
+    "title": {
+      "en": "Fundamental duties",
+      "hi": "मौलिक कर्तव्य",
+      "hinglish": "Fundamental duties"
+    },
+    "keywords": {
+      "en": [
+        "duties",
+        "citizen duties",
+        "constitutional duties",
+        "responsibility",
+        "respect law"
+      ],
+      "hi": [],
+      "hinglish": [
+        "duties",
+        "citizen duties",
+        "constitutional duties",
+        "responsibility",
+        "respect law"
+      ]
+    },
+    "summary": {
+      "en": "Article 51A lists the fundamental duties of citizens, including respecting the Constitution, the national flag, and the ideals of the freedom struggle.",
+      "hi": "अनुच्छेद 51A नागरिकों के मौलिक कर्तव्यों की सूची देता है, जिसमें संविधान, राष्ट्रीय ध्वज और स्वतंत्रता संग्राम के आदर्शों का सम्मान करना शामिल है।",
+      "hinglish": "Article 51A citizens ke fundamental duties list karta hai, jisme Constitution, national flag aur freedom struggle ke ideals ka respect karna shamil hai."
+    },
+    "currentStatus": {
+      "en": "Fundamental duties are constitutional obligations and are part of the broader legal framework of citizenship.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Article 51A lists the fundamental duties of citizens, including respecting the Constitution, the national flag, and the ideals of the freedom struggle.",
+      "hi": "अनुच्छेद 51A नागरिकों के मौलिक कर्तव्यों की सूची देता है, जिसमें संविधान, राष्ट्रीय ध्वज और स्वतंत्रता संग्राम के आदर्शों का सम्मान करना शामिल है।",
+      "hinglish": "Article 51A citizens ke fundamental duties list karta hai, jisme Constitution, national flag aur freedom struggle ke ideals ka respect karna shamil hai."
+    },
+    "source": "Constitution of India",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bnss-custody-rights",
+    "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "section": "Arrest and custody safeguards",
+    "title": {
+      "en": "Custody, procedure, and legal safeguards during arrest and investigation",
+      "hi": "गिरफ्तारी और जांच के दौरान हिरासत, प्रक्रिया और कानूनी सुरक्षा",
+      "hinglish": "Arrest aur investigation ke dauran custody, procedure aur legal safeguards"
+    },
+    "keywords": {
+      "en": [
+        "arrest",
+        "police custody",
+        "custody",
+        "investigation",
+        "magistrate",
+        "lawyer",
+        "grounds of arrest"
+      ],
+      "hi": [
+        "गिरफ्तारी",
+        "वकील"
+      ],
+      "hinglish": [
+        "arrest",
+        "police custody",
+        "custody",
+        "investigation",
+        "magistrate",
+        "lawyer",
+        "grounds of arrest"
+      ]
+    },
+    "summary": {
+      "en": "The procedure law sets out the framework for arrest, custody, production before a magistrate, and investigation safeguards, which are crucial for protecting detained persons.",
+      "hi": "प्रक्रियात्मक कानून गिरफ्तारी, हिरासत, मजिस्ट्रेट के सामने पेश करने और जांच से संबंधित सुरक्षा उपायों का ढांचा निर्धारित करता है।",
+      "hinglish": "Procedure law arrest, custody, magistrate ke saamne production aur investigation safeguards ka framework set karta hai."
+    },
+    "currentStatus": {
+      "en": "Specific procedural steps should be checked against the official current statute and the facts of a case.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The procedure law sets out the framework for arrest, custody, production before a magistrate, and investigation safeguards, which are crucial for protecting detained persons.",
+      "hi": "प्रक्रियात्मक कानून गिरफ्तारी, हिरासत, मजिस्ट्रेट के सामने पेश करने और जांच से संबंधित सुरक्षा उपायों का ढांचा निर्धारित करता है।",
+      "hinglish": "Procedure law arrest, custody, magistrate ke saamne production aur investigation safeguards ka framework set karta hai."
+    },
+    "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-74",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "74",
+    "title": {
+      "en": "Assault or use of criminal force to woman with intent to outrage her modesty",
+      "hi": "महिला की गरिमा भंग करने के आशय से हमला या आपराधिक बल",
+      "hinglish": "Woman ki dignity ko outrage karne ke intention se assault ya criminal force"
+    },
+    "keywords": {
+      "en": [
+        "harassment",
+        "assault",
+        "outrage modesty",
+        "sexual assault",
+        "women safety",
+        "molestation"
+      ],
+      "hi": [],
+      "hinglish": [
+        "harassment",
+        "assault",
+        "outrage modesty",
+        "sexual assault",
+        "women safety",
+        "molestation"
+      ]
+    },
+    "summary": {
+      "en": "The law addresses acts of assault or criminal force against a woman with the intent to outrage her modesty, including sexual harassment and related offences.",
+      "hi": "कानून महिला के विरुद्ध उसकी गरिमा भंग करने के आशय से हमला या आपराधिक बल के प्रयोग से संबंधित कृत्यों को संबोधित करता है।",
+      "hinglish": "Law woman ke against uski dignity ko outrage karne ke intention se assault ya criminal force ke acts ko address karta hai."
+    },
+    "currentStatus": {
+      "en": "This is a current criminal law topic; for a live case, verify the exact text and legal advice from a qualified lawyer.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The law addresses acts of assault or criminal force against a woman with the intent to outrage her modesty, including sexual harassment and related offences.",
+      "hi": "कानून महिला के विरुद्ध उसकी गरिमा भंग करने के आशय से हमला या आपराधिक बल के प्रयोग से संबंधित कृत्यों को संबोधित करता है।",
+      "hinglish": "Law woman ke against uski dignity ko outrage karne ke intention se assault ya criminal force ke acts ko address karta hai."
+    },
+    "source": "Bharatiya Nyaya Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-85",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "85",
+    "title": {
+      "en": "Cruelty by husband or relatives of husband",
+      "hi": "पति या पति के रिश्तेदारों द्वारा क्रूरता",
+      "hinglish": "Husband ya husband ke relatives dwara cruelty"
+    },
+    "keywords": {
+      "en": [
+        "domestic violence",
+        "marital cruelty",
+        "dowry",
+        "husband cruelty",
+        "women protection"
+      ],
+      "hi": [
+        "घरेलू हिंसा",
+        "दहेज"
+      ],
+      "hinglish": [
+        "domestic violence",
+        "marital cruelty",
+        "dowry",
+        "husband cruelty",
+        "women protection"
+      ]
+    },
+    "summary": {
+      "en": "The current law contains provisions addressing cruelty by a husband or relatives of the husband, including patterns of harassment and domestic abuse.",
+      "hi": "वर्तमान कानून में पति या पति के रिश्तेदारों द्वारा महिला के साथ क्रूरता और उत्पीड़न से संबंधित प्रावधान हैं।",
+      "hinglish": "Current law mein husband ya husband ke relatives dwara woman ke saath cruelty aur harassment se related provisions hain."
+    },
+    "currentStatus": {
+      "en": "The exact legal position should be checked against the official text and the facts of the case.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The current law contains provisions addressing cruelty by a husband or relatives of the husband, including patterns of harassment and domestic abuse.",
+      "hi": "वर्तमान कानून में पति या पति के रिश्तेदारों द्वारा महिला के साथ क्रूरता और उत्पीड़न से संबंधित प्रावधान हैं।",
+      "hinglish": "Current law mein husband ya husband ke relatives dwara woman ke saath cruelty aur harassment se related provisions hain."
+    },
+    "source": "Bharatiya Nyaya Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-103",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "103",
+    "title": {
+      "en": "Murder",
+      "hi": "हत्या",
+      "hinglish": "Murder"
+    },
+    "keywords": {
+      "en": [
+        "murder",
+        "killing",
+        "death",
+        "violent crime",
+        "homicide"
+      ],
+      "hi": [
+        "हत्या"
+      ],
+      "hinglish": [
+        "murder",
+        "killing",
+        "death",
+        "violent crime",
+        "homicide"
+      ]
+    },
+    "summary": {
+      "en": "Section 103 of the BNS addresses murder and the legal consequences of intentionally causing death, subject to the circumstances and applicable defences.",
+      "hi": "BNS की धारा 103 हत्या और जानबूझकर मृत्यु कारित करने के कानूनी परिणामों से संबंधित है, जो परिस्थितियों और लागू बचावों पर निर्भर करते हैं।",
+      "hinglish": "BNS Section 103 murder aur intentionally death cause karne ke legal consequences se related hai, jo circumstances aur applicable defences par depend karte hain."
+    },
+    "currentStatus": {
+      "en": "The exact application depends on facts and the necessary legal evidence; consult a lawyer for a specific case.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Section 103 of the BNS addresses murder and the legal consequences of intentionally causing death, subject to the circumstances and applicable defences.",
+      "hi": "BNS की धारा 103 हत्या और जानबूझकर मृत्यु कारित करने के कानूनी परिणामों से संबंधित है, जो परिस्थितियों और लागू बचावों पर निर्भर करते हैं।",
+      "hinglish": "BNS Section 103 murder aur intentionally death cause karne ke legal consequences se related hai, jo circumstances aur applicable defences par depend karte hain."
+    },
+    "source": "Bharatiya Nyaya Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-109",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "109",
+    "title": {
+      "en": "Attempt to murder",
+      "hi": "हत्या का प्रयास",
+      "hinglish": "Murder ka attempt"
+    },
+    "keywords": {
+      "en": [
+        "attempt murder",
+        "serious attack",
+        "murder attempt",
+        "violent action"
+      ],
+      "hi": [],
+      "hinglish": [
+        "attempt murder",
+        "serious attack",
+        "murder attempt",
+        "violent action"
+      ]
+    },
+    "summary": {
+      "en": "Attempt to murder covers cases where a person acts with the intention or knowledge that death would be caused and carries out an act toward that end.",
+      "hi": "हत्या का प्रयास उन मामलों से संबंधित है जहां व्यक्ति मृत्यु कारित करने के आशय या ज्ञान के साथ उस उद्देश्य की दिशा में कोई कार्य करता है।",
+      "hinglish": "Attempt to murder un cases ko cover karta hai jahan person death cause karne ki intention ya knowledge ke saath us purpose ki taraf act karta hai."
+    },
+    "currentStatus": {
+      "en": "The exact legal interpretation depends on the facts; verify with the official current statute and a lawyer.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Attempt to murder covers cases where a person acts with the intention or knowledge that death would be caused and carries out an act toward that end.",
+      "hi": "हत्या का प्रयास उन मामलों से संबंधित है जहां व्यक्ति मृत्यु कारित करने के आशय या ज्ञान के साथ उस उद्देश्य की दिशा में कोई कार्य करता है।",
+      "hinglish": "Attempt to murder un cases ko cover karta hai jahan person death cause karne ki intention ya knowledge ke saath us purpose ki taraf act karta hai."
+    },
+    "source": "Bharatiya Nyaya Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-318",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "318",
+    "title": {
+      "en": "Cheating and dishonest inducement",
+      "hi": "धोखाधड़ी और बेईमानी से प्रेरित करना",
+      "hinglish": "Cheating aur dishonest inducement"
+    },
+    "keywords": {
+      "en": [
+        "cheating",
+        "fraud",
+        "online scam",
+        "dishonest inducement",
+        "financial cheating"
+      ],
+      "hi": [
+        "धोखाधड़ी",
+        "ऑनलाइन ठगी"
+      ],
+      "hinglish": [
+        "cheating",
+        "fraud",
+        "online scam",
+        "dishonest inducement",
+        "financial cheating"
+      ]
+    },
+    "summary": {
+      "en": "The BNS addresses dishonest inducement and cheating in ways that deprive a person of property or money through deception or fraudulent means.",
+      "hi": "BNS धोखे या कपटपूर्ण तरीकों से किसी व्यक्ति को संपत्ति या धन से वंचित करने वाली बेईमानी से प्रेरित करने और धोखाधड़ी से संबंधित प्रावधान रखता है।",
+      "hinglish": "BNS deception ya fraudulent means se kisi person ko property ya money se deprive karne wali cheating aur dishonest inducement ko address karta hai."
+    },
+    "currentStatus": {
+      "en": "Cyber or digital fraud may also involve the Information Technology Act and should be reported promptly.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The BNS addresses dishonest inducement and cheating in ways that deprive a person of property or money through deception or fraudulent means.",
+      "hi": "BNS धोखे या कपटपूर्ण तरीकों से किसी व्यक्ति को संपत्ति या धन से वंचित करने वाली बेईमानी से प्रेरित करने और धोखाधड़ी से संबंधित प्रावधान रखता है।",
+      "hinglish": "BNS deception ya fraudulent means se kisi person ko property ya money se deprive karne wali cheating aur dishonest inducement ko address karta hai."
+    },
+    "source": "Bharatiya Nyaya Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-351",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "351",
+    "title": {
+      "en": "Criminal intimidation",
+      "hi": "आपराधिक धमकी",
+      "hinglish": "Criminal intimidation"
+    },
+    "keywords": {
+      "en": [
+        "threat",
+        "intimidation",
+        "harassment",
+        "criminal threat",
+        "blackmail"
+      ],
+      "hi": [],
+      "hinglish": [
+        "threat",
+        "intimidation",
+        "harassment",
+        "criminal threat",
+        "blackmail"
+      ]
+    },
+    "summary": {
+      "en": "Criminal intimidation covers threats intended to cause fear, alarm, or to compel a person to do something against their will.",
+      "hi": "आपराधिक धमकी में ऐसे खतरे शामिल होते हैं जिनका उद्देश्य किसी व्यक्ति में भय या चिंता पैदा करना या उसे उसकी इच्छा के विरुद्ध कुछ करने के लिए मजबूर करना हो।",
+      "hinglish": "Criminal intimidation mein aisi threats shamil hoti hain jo kisi person ko fear ya alarm mein daalne ya uski will ke against kuch karne par majboor karne ke liye di jaati hain."
+    },
+    "currentStatus": {
+      "en": "The exact facts and evidence matter; legal advice should be sought for specific intimidatory acts.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Criminal intimidation covers threats intended to cause fear, alarm, or to compel a person to do something against their will.",
+      "hi": "आपराधिक धमकी में ऐसे खतरे शामिल होते हैं जिनका उद्देश्य किसी व्यक्ति में भय या चिंता पैदा करना या उसे उसकी इच्छा के विरुद्ध कुछ करने के लिए मजबूर करना हो।",
+      "hinglish": "Criminal intimidation mein aisi threats shamil hoti hain jo kisi person ko fear ya alarm mein daalne ya uski will ke against kuch karne par majboor karne ke liye di jaati hain."
+    },
+    "source": "Bharatiya Nyaya Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "consumer-district-commission",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Consumer forums and remedies",
+    "title": {
+      "en": "Consumer complaint and redressal mechanism",
+      "hi": "उपभोक्ता शिकायत और निवारण व्यवस्था",
+      "hinglish": "Consumer complaint aur redressal mechanism"
+    },
+    "keywords": {
+      "en": [
+        "consumer complaint",
+        "refund",
+        "defective product",
+        "service issue",
+        "consumer forum",
+        "unfair trade"
+      ],
+      "hi": [
+        "रिफंड"
+      ],
+      "hinglish": [
+        "consumer complaint",
+        "refund",
+        "defective product",
+        "service issue",
+        "consumer forum",
+        "unfair trade"
+      ]
+    },
+    "summary": {
+      "en": "Consumers can approach appropriate consumer forums for defects in goods, deficient services, unfair trade practices, and grievances about misleading or harmful products and services.",
+      "hi": "उपभोक्ता वस्तुओं में दोष, सेवाओं में कमी, अनुचित व्यापार व्यवहार और भ्रामक या हानिकारक उत्पादों तथा सेवाओं से जुड़ी शिकायतों के लिए उचित उपभोक्ता मंच से संपर्क कर सकते हैं।",
+      "hinglish": "Consumers defective goods, deficient services, unfair trade practices aur misleading ya harmful products/services ke complaints ke liye appropriate consumer forum ja sakte hain."
+    },
+    "currentStatus": {
+      "en": "The exact forum and remedy depend on the nature of the complaint and the amount/value involved.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Consumers can approach appropriate consumer forums for defects in goods, deficient services, unfair trade practices, and grievances about misleading or harmful products and services.",
+      "hi": "उपभोक्ता वस्तुओं में दोष, सेवाओं में कमी, अनुचित व्यापार व्यवहार और भ्रामक या हानिकारक उत्पादों तथा सेवाओं से जुड़ी शिकायतों के लिए उचित उपभोक्ता मंच से संपर्क कर सकते हैं।",
+      "hinglish": "Consumers defective goods, deficient services, unfair trade practices aur misleading ya harmful products/services ke complaints ke liye appropriate consumer forum ja sakte hain."
+    },
+    "source": "Consumer Protection Act, 2019",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "it-cyber-fraud",
+    "act": "Information Technology Act, 2000",
+    "section": "Cyber offences and digital fraud",
+    "title": {
+      "en": "Online fraud, identity theft, and digital offences",
+      "hi": "ऑनलाइन धोखाधड़ी, पहचान की चोरी और डिजिटल अपराध",
+      "hinglish": "Online fraud, identity theft aur digital offences"
+    },
+    "keywords": {
+      "en": [
+        "cyber crime",
+        "online fraud",
+        "identity theft",
+        "phishing",
+        "email scam",
+        "digital cheating",
+        "banking scam"
+      ],
+      "hi": [],
+      "hinglish": [
+        "cyber crime",
+        "online fraud",
+        "identity theft",
+        "phishing",
+        "email scam",
+        "digital cheating",
+        "banking scam"
+      ]
+    },
+    "summary": {
+      "en": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+      "hi": "आईटी अधिनियम डिजिटल अपराधों, पहचान की चोरी, ऑनलाइन धोखाधड़ी और इलेक्ट्रॉनिक प्रणालियों, खातों तथा डिजिटल जानकारी को प्रभावित करने वाले संबंधित अपराधों को कवर करता है।",
+      "hinglish": "IT Act digital offences, identity theft, online fraud aur electronic systems, accounts aur digital information ko affect karne wale related offences ko cover karta hai."
+    },
+    "currentStatus": {
+      "en": "Cyber fraud incidents should be reported promptly to the platform and the appropriate authority; the facts determine the exact remedy.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+      "hi": "आईटी अधिनियम डिजिटल अपराधों, पहचान की चोरी, ऑनलाइन धोखाधड़ी और इलेक्ट्रॉनिक प्रणालियों, खातों तथा डिजिटल जानकारी को प्रभावित करने वाले संबंधित अपराधों को कवर करता है।",
+      "hinglish": "IT Act digital offences, identity theft, online fraud aur electronic systems, accounts aur digital information ko affect karne wale related offences ko cover karta hai."
+    },
+    "source": "Information Technology Act, 2000",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "rti-application",
+    "act": "Right to Information Act, 2005",
+    "section": "RTI procedure",
+    "title": {
+      "en": "Filing an RTI request and seeking information",
+      "hi": "RTI आवेदन और सूचना प्राप्त करने की प्रक्रिया",
+      "hinglish": "RTI request file karne aur information lene ki process"
+    },
+    "keywords": {
+      "en": [
+        "rti",
+        "right to information",
+        "government records",
+        "public authority",
+        "information request",
+        "transparency"
+      ],
+      "hi": [
+        "सूचना का अधिकार"
+      ],
+      "hinglish": [
+        "rti",
+        "right to information",
+        "government records",
+        "public authority",
+        "information request",
+        "transparency"
+      ]
+    },
+    "summary": {
+      "en": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+      "hi": "नागरिक वैधानिक अपवादों और प्रक्रियात्मक नियमों के अधीन सार्वजनिक प्राधिकरणों से सूचना प्राप्त करने के लिए RTI आवेदन दाखिल कर सकते हैं।",
+      "hinglish": "Citizens statutory exemptions aur procedural rules ke subject RTI application file karke public authorities se information le sakte hain."
+    },
+    "currentStatus": {
+      "en": "The exact procedure depends on the public authority and type of information requested.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+      "hi": "नागरिक वैधानिक अपवादों और प्रक्रियात्मक नियमों के अधीन सार्वजनिक प्राधिकरणों से सूचना प्राप्त करने के लिए RTI आवेदन दाखिल कर सकते हैं।",
+      "hinglish": "Citizens statutory exemptions aur procedural rules ke subject RTI application file karke public authorities se information le sakte hain."
+    },
+    "source": "Right to Information Act, 2005",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "property-title-check",
+    "act": "Transfer of Property Act, 1882",
+    "section": "Property rights and title",
+    "title": {
+      "en": "Title, ownership, and lawful transfer of property",
+      "hi": "संपत्ति का स्वामित्व, टाइटल और वैध हस्तांतरण",
+      "hinglish": "Property title, ownership aur lawful transfer"
+    },
+    "keywords": {
+      "en": [
+        "property",
+        "ownership",
+        "title",
+        "land",
+        "house",
+        "sale deed",
+        "mutation"
+      ],
+      "hi": [
+        "संपत्ति",
+        "स्वामित्व",
+        "जमीन",
+        "मकान"
+      ],
+      "hinglish": [
+        "property",
+        "ownership",
+        "title",
+        "land",
+        "house",
+        "sale deed",
+        "mutation"
+      ]
+    },
+    "summary": {
+      "en": "Property matters depend on title, lawful transfer, registration, possession, and applicable records. A title dispute may require careful document review and legal advice.",
+      "hi": "संपत्ति के मामलों में स्वामित्व, वैध हस्तांतरण, पंजीकरण, कब्जा और संबंधित रिकॉर्ड महत्वपूर्ण होते हैं। टाइटल विवाद में दस्तावेजों की सावधानीपूर्वक जांच आवश्यक हो सकती है।",
+      "hinglish": "Property matters mein title, lawful transfer, registration, possession aur records important hote hain. Title dispute mein documents ki careful checking zaroori ho sakti hai."
+    },
+    "currentStatus": {
+      "en": "Property disputes are fact-specific; the exact remedy depends on documents, possession, and statutory procedure.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "Property matters depend on title, lawful transfer, registration, possession, and applicable records. A title dispute may require careful document review and legal advice.",
+      "hi": "संपत्ति के मामलों में स्वामित्व, वैध हस्तांतरण, पंजीकरण, कब्जा और संबंधित रिकॉर्ड महत्वपूर्ण होते हैं। टाइटल विवाद में दस्तावेजों की सावधानीपूर्वक जांच आवश्यक हो सकती है।",
+      "hinglish": "Property matters mein title, lawful transfer, registration, possession aur records important hote hain. Title dispute mein documents ki careful checking zaroori ho sakti hai."
+    },
+    "source": "Transfer of Property Act, 1882",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bnss-fir-complaint",
+    "act": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "section": "Complaint and investigation procedure",
+    "title": {
+      "en": "Reporting offences and accessing the criminal procedure process",
+      "hi": "अपराध की रिपोर्ट और आपराधिक प्रक्रिया तक पहुंच",
+      "hinglish": "Crime report karna aur criminal procedure process"
+    },
+    "keywords": {
+      "en": [
+        "complaint",
+        "reporting crime",
+        "police complaint",
+        "investigation",
+        "criminal procedure",
+        "legal process"
+      ],
+      "hi": [
+        "शिकायत"
+      ],
+      "hinglish": [
+        "complaint",
+        "reporting crime",
+        "police complaint",
+        "investigation",
+        "criminal procedure",
+        "legal process"
+      ]
+    },
+    "summary": {
+      "en": "The criminal procedure framework governs how complaints are received, how investigation proceeds, and how offences are processed through the legal system.",
+      "hi": "आपराधिक प्रक्रिया का ढांचा यह निर्धारित करता है कि शिकायत कैसे प्राप्त की जाती है, जांच कैसे आगे बढ़ती है और अपराधों को कानूनी व्यवस्था के माध्यम से कैसे संसाधित किया जाता है।",
+      "hinglish": "Criminal procedure framework batata hai ki complaint kaise receive hoti hai, investigation kaise proceed hoti hai aur offences legal system ke through kaise process hote hain."
+    },
+    "currentStatus": {
+      "en": "Specific steps depend on the offence and the applicable law; immediate legal advice is recommended for serious cases.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "text": {
+      "en": "The criminal procedure framework governs how complaints are received, how investigation proceeds, and how offences are processed through the legal system.",
+      "hi": "आपराधिक प्रक्रिया का ढांचा यह निर्धारित करता है कि शिकायत कैसे प्राप्त की जाती है, जांच कैसे आगे बढ़ती है और अपराधों को कानूनी व्यवस्था के माध्यम से कैसे संसाधित किया जाता है।",
+      "hinglish": "Criminal procedure framework batata hai ki complaint kaise receive hoti hai, investigation kaise proceed hoti hai aur offences legal system ke through kaise process hote hain."
+    },
+    "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-74-women-safety",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "Section 74",
+    "title": {
+      "en": "Sexual harassment and assault against women",
+      "hi": "महिलाओं के विरुद्ध यौन उत्पीड़न और हमला",
+      "hinglish": "Women ke against sexual harassment aur assault"
+    },
+    "keywords": {
+      "en": [
+        "sexual harassment",
+        "women safety",
+        "assault",
+        "molestation",
+        "stalking",
+        "harassment",
+        "outrage modesty"
+      ],
+      "hi": [
+        "यौन उत्पीड़न"
+      ],
+      "hinglish": [
+        "sexual harassment",
+        "women safety",
+        "assault",
+        "molestation",
+        "stalking",
+        "harassment",
+        "outrage modesty"
+      ]
+    },
+    "summary": {
+      "en": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+      "hi": "कानून यौन उत्पीड़न, हमला और महिला की गरिमा भंग करने वाले कृत्यों को संबोधित करता है। सटीक कानूनी प्रावधान तथ्यों और उपलब्ध साक्ष्यों पर निर्भर करते हैं।",
+      "hinglish": "Law sexual harassment, assault aur woman ki dignity ko outrage karne wale acts ko address karta hai. Exact legal provision facts aur evidence par depend karta hai."
+    },
+    "text": {
+      "en": "Relevant provisions under the BNS address acts of assault or criminal force against a woman with intent to outrage her modesty and related offences. The exact legal application depends on the facts and evidence.",
+      "hi": "कानून यौन उत्पीड़न, हमला और महिला की गरिमा भंग करने वाले कृत्यों को संबोधित करता है। सटीक कानूनी प्रावधान तथ्यों और उपलब्ध साक्ष्यों पर निर्भर करते हैं।",
+      "hinglish": "Law sexual harassment, assault aur woman ki dignity ko outrage karne wale acts ko address karta hai. Exact legal provision facts aur evidence par depend karta hai."
+    },
+    "source": "India Code / official government legal text on the Bharatiya Nyaya Sanhita, 2023",
+    "currentStatus": {
+      "en": "Current law; official text and a lawyer should be checked for a live case.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "bns-85-domestic-violence",
+    "act": "Bharatiya Nyaya Sanhita, 2023",
+    "section": "Section 85",
+    "title": {
+      "en": "Cruelty and domestic abuse",
+      "hi": "क्रूरता और घरेलू उत्पीड़न",
+      "hinglish": "Cruelty aur domestic abuse"
+    },
+    "keywords": {
+      "en": [
+        "domestic violence",
+        "marital cruelty",
+        "abuse",
+        "mental cruelty",
+        "women protection",
+        "dowry"
+      ],
+      "hi": [
+        "घरेलू हिंसा",
+        "दहेज"
+      ],
+      "hinglish": [
+        "domestic violence",
+        "marital cruelty",
+        "abuse",
+        "mental cruelty",
+        "women protection",
+        "dowry"
+      ]
+    },
+    "summary": {
+      "en": "The law includes provisions for domestic cruelty and harassment, especially where a woman is subjected to cruelty by her husband or relatives.",
+      "hi": "कानून घरेलू क्रूरता और उत्पीड़न से संबंधित प्रावधानों को शामिल करता है, विशेष रूप से जब किसी महिला को उसके पति या रिश्तेदारों द्वारा क्रूरता का सामना करना पड़ता है।",
+      "hinglish": "Law domestic cruelty aur harassment se related provisions include karta hai, especially jab woman ko husband ya relatives ki cruelty face karni pade."
+    },
+    "text": {
+      "en": "The statutory framework contains offences related to cruelty and harassment in domestic contexts. The precise legal remedy depends on the facts, evidence, and the applicable legal provisions.",
+      "hi": "कानून घरेलू क्रूरता और उत्पीड़न से संबंधित प्रावधानों को शामिल करता है, विशेष रूप से जब किसी महिला को उसके पति या रिश्तेदारों द्वारा क्रूरता का सामना करना पड़ता है।",
+      "hinglish": "Law domestic cruelty aur harassment se related provisions include karta hai, especially jab woman ko husband ya relatives ki cruelty face karni pade."
+    },
+    "source": "India Code / official government legal text on the Bharatiya Nyaya Sanhita, 2023",
+    "currentStatus": {
+      "en": "Current law; use official text and legal advice for case-specific guidance.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "it-identity-theft",
+    "act": "Information Technology Act, 2000",
+    "section": "Section 66C / 66D",
+    "title": {
+      "en": "Identity theft and online cheating",
+      "hi": "पहचान की चोरी और ऑनलाइन धोखाधड़ी",
+      "hinglish": "Identity theft aur online cheating"
+    },
+    "keywords": {
+      "en": [
+        "identity theft",
+        "online scam",
+        "phishing",
+        "cyber fraud",
+        "fraudulent transaction",
+        "bank account fraud"
+      ],
+      "hi": [
+        "ऑनलाइन ठगी",
+        "साइबर धोखाधड़ी"
+      ],
+      "hinglish": [
+        "identity theft",
+        "online scam",
+        "phishing",
+        "cyber fraud",
+        "fraudulent transaction",
+        "bank account fraud"
+      ]
+    },
+    "summary": {
+      "en": "The Information Technology Act covers online impersonation, identity theft, and cheating that uses digital systems, accounts, or electronic credentials unlawfully.",
+      "hi": "सूचना प्रौद्योगिकी अधिनियम डिजिटल पहचान के दुरुपयोग, प्रतिरूपण द्वारा धोखाधड़ी और ऑनलाइन धोखाधड़ीपूर्ण गतिविधियों से संबंधित प्रावधान रखता है।",
+      "hinglish": "Information Technology Act digital identity misuse, impersonation cheating aur fraudulent online practices se related provisions rakhta hai."
+    },
+    "text": {
+      "en": "The Act penalizes misuse of digital identity, cheating by impersonation, and fraudulent online practices. Victims should preserve evidence and report the matter promptly to the platform and the authorities.",
+      "hi": "सूचना प्रौद्योगिकी अधिनियम डिजिटल पहचान के दुरुपयोग, प्रतिरूपण द्वारा धोखाधड़ी और ऑनलाइन धोखाधड़ीपूर्ण गतिविधियों से संबंधित प्रावधान रखता है।",
+      "hinglish": "Information Technology Act digital identity misuse, impersonation cheating aur fraudulent online practices se related provisions rakhta hai."
+    },
+    "source": "Government of India, Information Technology Act, 2000 and related digital offence provisions",
+    "currentStatus": {
+      "en": "Current law; the exact remedy depends on the facts, evidence, and applicable reporting mechanisms.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "consumer-deficiency-remedy",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Consumer grievance and remedy",
+    "title": {
+      "en": "Defective goods, deficient services, and complaint remedies",
+      "hi": "दोषपूर्ण वस्तुएं, सेवाओं में कमी और उपभोक्ता उपाय",
+      "hinglish": "Defective goods, deficient services aur consumer remedies"
+    },
+    "keywords": {
+      "en": [
+        "defective product",
+        "service deficiency",
+        "consumer complaint",
+        "refund",
+        "service issue",
+        "complaint forum"
+      ],
+      "hi": [
+        "रिफंड"
+      ],
+      "hinglish": [
+        "defective product",
+        "service deficiency",
+        "consumer complaint",
+        "refund",
+        "service issue",
+        "complaint forum"
+      ]
+    },
+    "summary": {
+      "en": "Consumers can seek remedies for defective goods, deficient services, unfair trade practices, and misleading advertising through the consumer dispute redressal framework.",
+      "hi": "उपभोक्ता संरक्षण अधिनियम दोषपूर्ण वस्तुओं, सेवाओं में कमी, अनुचित व्यापार व्यवहार और भ्रामक विज्ञापन के मामलों में उपभोक्ताओं को निवारण की व्यवस्था देता है।",
+      "hinglish": "Consumer Protection Act defective goods, deficient services, unfair trade practices aur misleading advertising ke cases mein consumers ko redressal mechanism deta hai."
+    },
+    "text": {
+      "en": "The Consumer Protection Act provides a structured grievance redressal mechanism for consumers. The proper forum and remedy depend on the value of the claim and the nature of the grievance.",
+      "hi": "उपभोक्ता संरक्षण अधिनियम दोषपूर्ण वस्तुओं, सेवाओं में कमी, अनुचित व्यापार व्यवहार और भ्रामक विज्ञापन के मामलों में उपभोक्ताओं को निवारण की व्यवस्था देता है।",
+      "hinglish": "Consumer Protection Act defective goods, deficient services, unfair trade practices aur misleading advertising ke cases mein consumers ko redressal mechanism deta hai."
+    },
+    "source": "Government of India, Consumer Protection Act, 2019",
+    "currentStatus": {
+      "en": "Current law; the forum and remedy depend on facts and the specific complaint.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "rti-public-authority",
+    "act": "Right to Information Act, 2005",
+    "section": "RTI application process",
+    "title": {
+      "en": "Right to information from public authorities",
+      "hi": "सार्वजनिक प्राधिकरणों से सूचना का अधिकार",
+      "hinglish": "Public authorities se information ka right"
+    },
+    "keywords": {
+      "en": [
+        "rti",
+        "government records",
+        "public information",
+        "transparency",
+        "official records",
+        "public authority"
+      ],
+      "hi": [
+        "सूचना का अधिकार"
+      ],
+      "hinglish": [
+        "rti",
+        "government records",
+        "public information",
+        "transparency",
+        "official records",
+        "public authority"
+      ]
+    },
+    "summary": {
+      "en": "Citizens may seek information from public authorities under the RTI Act, subject to exemptions and procedural requirements, to promote transparency and accountability.",
+      "hi": "नागरिक RTI अधिनियम के तहत सार्वजनिक प्राधिकरणों से सूचना मांग सकते हैं, जो वैधानिक अपवादों और प्रक्रियात्मक आवश्यकताओं के अधीन है।",
+      "hinglish": "Citizens RTI Act ke under public authorities se information maang sakte hain, subject to statutory exemptions aur procedural requirements."
+    },
+    "text": {
+      "en": "The RTI framework allows access to information held by public authorities while balancing legitimate exemptions. Applications must be made in the prescribed manner and checked against statutory exemptions.",
+      "hi": "नागरिक RTI अधिनियम के तहत सार्वजनिक प्राधिकरणों से सूचना मांग सकते हैं, जो वैधानिक अपवादों और प्रक्रियात्मक आवश्यकताओं के अधीन है।",
+      "hinglish": "Citizens RTI Act ke under public authorities se information maang sakte hain, subject to statutory exemptions aur procedural requirements."
+    },
+    "source": "Government of India, Right to Information Act, 2005",
+    "currentStatus": {
+      "en": "Current law; the specific procedure depends on the authority and the information requested.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "property-title-registration",
+    "act": "Registration Act, 1908 / Transfer of Property Act, 1882",
+    "section": "Title and registration",
+    "title": {
+      "en": "Property title, registration, and lawful transfer",
+      "hi": "संपत्ति का टाइटल, पंजीकरण और वैध हस्तांतरण",
+      "hinglish": "Property title, registration aur lawful transfer"
+    },
+    "keywords": {
+      "en": [
+        "property title",
+        "land ownership",
+        "registration",
+        "sale deed",
+        "mutation",
+        "property dispute"
+      ],
+      "hi": [],
+      "hinglish": [
+        "property title",
+        "land ownership",
+        "registration",
+        "sale deed",
+        "mutation",
+        "property dispute"
+      ]
+    },
+    "summary": {
+      "en": "Property rights depend on title, registration, lawful transfer, and possession. Registration and proof of documents are critical in immovable property disputes.",
+      "hi": "संपत्ति के अधिकार टाइटल, पंजीकरण, वैध हस्तांतरण और कब्जे पर निर्भर करते हैं। अचल संपत्ति के विवादों में दस्तावेजों और स्वामित्व के प्रमाण महत्वपूर्ण होते हैं।",
+      "hinglish": "Property rights title, registration, lawful transfer aur possession par depend karte hain. Immovable property disputes mein documents aur ownership proof important hote hain."
+    },
+    "text": {
+      "en": "The legal framework for property disputes involves title, lawful transfer, registration, and proof of ownership. Document review and legal advice are necessary for fact-specific disputes.",
+      "hi": "संपत्ति के अधिकार टाइटल, पंजीकरण, वैध हस्तांतरण और कब्जे पर निर्भर करते हैं। अचल संपत्ति के विवादों में दस्तावेजों और स्वामित्व के प्रमाण महत्वपूर्ण होते हैं।",
+      "hinglish": "Property rights title, registration, lawful transfer aur possession par depend karte hain. Immovable property disputes mein documents aur ownership proof important hote hain."
+    },
+    "source": "India Code / official property and registration law sources",
+    "currentStatus": {
+      "en": "Current law; exact remedies depend on documents and the specific facts.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "dv-act-protection-order",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Sections 12, 18, 19, and 20",
+    "title": {
+      "en": "Protection and remedies in domestic violence matters",
+      "hi": "घरेलू हिंसा मामलों में संरक्षण और कानूनी उपाय",
+      "hinglish": "Domestic violence matters mein protection aur legal remedies"
+    },
+    "keywords": {
+      "en": [
+        "domestic violence",
+        "protection order",
+        "residence order",
+        "maintenance",
+        "woman protection",
+        "abuse",
+        "shared household"
+      ],
+      "hi": [
+        "घरेलू हिंसा"
+      ],
+      "hinglish": [
+        "domestic violence",
+        "protection order",
+        "residence order",
+        "maintenance",
+        "woman protection",
+        "abuse",
+        "shared household"
+      ]
+    },
+    "summary": {
+      "en": "The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence.",
+      "hi": "यह अधिनियम घरेलू हिंसा का सामना करने वाली महिला के लिए संरक्षण आदेश, निवास संबंधी राहत, मौद्रिक राहत और अन्य उपायों का ढांचा प्रदान करता है।",
+      "hinglish": "Yeh Act domestic violence face karne wali woman ke liye protection order, residence relief, monetary relief aur other remedies ka framework provide karta hai."
+    },
+    "text": {
+      "en": "The Protection of Women from Domestic Violence Act, 2005 provides civil reliefs and protective remedies for domestic violence, including protection, residence, and monetary reliefs. The appropriate remedy depends on the facts and the competent court or authority.",
+      "hi": "यह अधिनियम घरेलू हिंसा का सामना करने वाली महिला के लिए संरक्षण आदेश, निवास संबंधी राहत, मौद्रिक राहत और अन्य उपायों का ढांचा प्रदान करता है।",
+      "hinglish": "Yeh Act domestic violence face karne wali woman ke liye protection order, residence relief, monetary relief aur other remedies ka framework provide karta hai."
+    },
+    "source": "Protection of Women from Domestic Violence Act, 2005",
+    "currentStatus": {
+      "en": "Current law; urgent safety concerns should be reported to local emergency services or the appropriate authority, and case-specific relief should be discussed with a qualified lawyer.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "pocso-child-protection",
+    "act": "Protection of Children from Sexual Offences Act, 2012",
+    "section": "Child sexual offences and reporting duties",
+    "title": {
+      "en": "Protection of children from sexual abuse and exploitation",
+      "hi": "यौन शोषण और उत्पीड़न से बच्चों का संरक्षण",
+      "hinglish": "Children ko sexual abuse aur exploitation se protection"
+    },
+    "keywords": {
+      "en": [
+        "child",
+        "minor",
+        "child abuse",
+        "sexual abuse",
+        "pocso",
+        "child safety",
+        "exploitation"
+      ],
+      "hi": [
+        "बच्चा",
+        "नाबालिग"
+      ],
+      "hinglish": [
+        "child",
+        "minor",
+        "child abuse",
+        "sexual abuse",
+        "pocso",
+        "child safety",
+        "exploitation"
+      ]
+    },
+    "summary": {
+      "en": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+      "hi": "POCSO अधिनियम बच्चों को यौन हमला, यौन उत्पीड़न और अश्लील सामग्री से संबंधित शोषण से बचाता है तथा रिपोर्टिंग और मुकदमे के लिए विशेष प्रक्रियाएं प्रदान करता है।",
+      "hinglish": "POCSO Act children ko sexual assault, sexual harassment aur pornography-related exploitation se protect karta hai aur reporting aur trial ke liye special procedures provide karta hai."
+    },
+    "text": {
+      "en": "The Protection of Children from Sexual Offences Act, 2012 creates a child-protection framework for sexual assault, sexual harassment, and exploitation, with special procedures intended to protect children during reporting and trial.",
+      "hi": "POCSO अधिनियम बच्चों को यौन हमला, यौन उत्पीड़न और अश्लील सामग्री से संबंधित शोषण से बचाता है तथा रिपोर्टिंग और मुकदमे के लिए विशेष प्रक्रियाएं प्रदान करता है।",
+      "hinglish": "POCSO Act children ko sexual assault, sexual harassment aur pornography-related exploitation se protect karta hai aur reporting aur trial ke liye special procedures provide karta hai."
+    },
+    "source": "Protection of Children from Sexual Offences Act, 2012",
+    "currentStatus": {
+      "en": "Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "posh-workplace-harassment",
+    "act": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "section": "Workplace complaint and Internal Committee process",
+    "title": {
+      "en": "Prevention and redressal of sexual harassment at work",
+      "hi": "कार्यस्थल पर यौन उत्पीड़न की रोकथाम और निवारण",
+      "hinglish": "Workplace par sexual harassment ki prevention aur redressal"
+    },
+    "keywords": {
+      "en": [
+        "workplace harassment",
+        "sexual harassment",
+        "office harassment",
+        "internal committee",
+        "complaint",
+        "employee safety",
+        "workplace complaint"
+      ],
+      "hi": [
+        "कार्यस्थल उत्पीड़न",
+        "यौन उत्पीड़न",
+        "शिकायत"
+      ],
+      "hinglish": [
+        "workplace harassment",
+        "sexual harassment",
+        "office harassment",
+        "internal committee",
+        "complaint",
+        "employee safety",
+        "workplace complaint"
+      ]
+    },
+    "summary": {
+      "en": "The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces.",
+      "hi": "POSH अधिनियम कार्यस्थल पर महिलाओं के यौन उत्पीड़न की रोकथाम और शिकायतों के निवारण का ढांचा प्रदान करता है, जिसमें लागू कार्यस्थलों पर आंतरिक समिति की प्रक्रिया शामिल है।",
+      "hinglish": "POSH Act workplace par women ke sexual harassment ko prevent aur redress karne ka framework provide karta hai, jisme applicable workplaces par Internal Committee process shamil hai."
+    },
+    "text": {
+      "en": "The POSH Act requires covered workplaces to maintain a mechanism for preventing and addressing sexual harassment complaints, including an Internal Committee process where applicable. The facts, workplace structure, and statutory deadlines matter.",
+      "hi": "POSH अधिनियम कार्यस्थल पर महिलाओं के यौन उत्पीड़न की रोकथाम और शिकायतों के निवारण का ढांचा प्रदान करता है, जिसमें लागू कार्यस्थलों पर आंतरिक समिति की प्रक्रिया शामिल है।",
+      "hinglish": "POSH Act workplace par women ke sexual harassment ko prevent aur redress karne ka framework provide karta hai, jisme applicable workplaces par Internal Committee process shamil hai."
+    },
+    "source": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "currentStatus": {
+      "en": "Current law; preserve relevant evidence and seek help from the workplace committee, appropriate authority, or a qualified lawyer for a specific complaint.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "motor-vehicles-accident-compensation",
+    "act": "Motor Vehicles Act, 1988",
+    "section": "Motor accident claims and road-user duties",
+    "title": {
+      "en": "Road accidents, insurance, and compensation claims",
+      "hi": "सड़क दुर्घटना, बीमा और मुआवजे के दावे",
+      "hinglish": "Road accident, insurance aur compensation claims"
+    },
+    "keywords": {
+      "en": [
+        "road accident",
+        "car accident",
+        "bike accident",
+        "motor vehicle",
+        "insurance",
+        "compensation",
+        "drunk driving",
+        "driving licence"
+      ],
+      "hi": [
+        "सड़क दुर्घटना",
+        "बीमा",
+        "मुआवजा"
+      ],
+      "hinglish": [
+        "road accident",
+        "car accident",
+        "bike accident",
+        "motor vehicle",
+        "insurance",
+        "compensation",
+        "drunk driving",
+        "driving licence"
+      ]
+    },
+    "summary": {
+      "en": "The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents.",
+      "hi": "मोटर वाहन अधिनियम सड़क उपयोग, ड्राइविंग और बीमा संबंधी आवश्यकताओं तथा मोटर वाहन दुर्घटनाओं से जुड़े मुआवजे के कानूनी मामलों को नियंत्रित करता है।",
+      "hinglish": "Motor Vehicles Act road use, driving aur insurance requirements aur motor vehicle accidents se related compensation claims ko regulate karta hai."
+    },
+    "text": {
+      "en": "The Motor Vehicles Act, 1988 contains rules concerning driving, vehicle use, insurance, road safety, and claims arising from motor-vehicle accidents. The available remedy depends on the accident facts, policy, injuries, and applicable claim procedure.",
+      "hi": "मोटर वाहन अधिनियम सड़क उपयोग, ड्राइविंग और बीमा संबंधी आवश्यकताओं तथा मोटर वाहन दुर्घटनाओं से जुड़े मुआवजे के कानूनी मामलों को नियंत्रित करता है।",
+      "hinglish": "Motor Vehicles Act road use, driving aur insurance requirements aur motor vehicle accidents se related compensation claims ko regulate karta hai."
+    },
+    "source": "Motor Vehicles Act, 1988",
+    "currentStatus": {
+      "en": "Current law; after an accident, prioritize safety and medical care, report the incident as required, preserve evidence, and obtain case-specific legal advice before settling a claim.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "hindu-marriage-divorce",
+    "act": "Hindu Marriage Act, 1955",
+    "section": "Marriage, divorce, and matrimonial remedies",
+    "title": {
+      "en": "Matrimonial rights, divorce, and related remedies",
+      "hi": "विवाह, तलाक और वैवाहिक कानूनी उपाय",
+      "hinglish": "Marriage, divorce aur matrimonial legal remedies"
+    },
+    "keywords": {
+      "en": [
+        "marriage",
+        "divorce",
+        "husband",
+        "wife",
+        "maintenance",
+        "matrimonial dispute",
+        "child custody",
+        "separation"
+      ],
+      "hi": [
+        "विवाह",
+        "तलाक"
+      ],
+      "hinglish": [
+        "marriage",
+        "divorce",
+        "husband",
+        "wife",
+        "maintenance",
+        "matrimonial dispute",
+        "child custody",
+        "separation"
+      ]
+    },
+    "summary": {
+      "en": "The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies.",
+      "hi": "हिंदू विवाह अधिनियम निर्दिष्ट हिंदू वैवाहिक मामलों के लिए कानूनी ढांचा प्रदान करता है, जिसमें विवाह की शर्तें, तलाक, न्यायिक पृथक्करण और संबंधित न्यायालयी उपाय शामिल हैं।",
+      "hinglish": "Hindu Marriage Act specified Hindu matrimonial matters ke liye legal framework provide karta hai, jisme marriage conditions, divorce, judicial separation aur related court remedies shamil hain."
+    },
+    "text": {
+      "en": "The Hindu Marriage Act, 1955 provides a statutory framework for specified Hindu matrimonial matters, including marriage validity, divorce, judicial separation, and other matrimonial remedies. Personal facts and applicable personal law must be checked carefully.",
+      "hi": "हिंदू विवाह अधिनियम निर्दिष्ट हिंदू वैवाहिक मामलों के लिए कानूनी ढांचा प्रदान करता है, जिसमें विवाह की शर्तें, तलाक, न्यायिक पृथक्करण और संबंधित न्यायालयी उपाय शामिल हैं।",
+      "hinglish": "Hindu Marriage Act specified Hindu matrimonial matters ke liye legal framework provide karta hai, jisme marriage conditions, divorce, judicial separation aur related court remedies shamil hain."
+    },
+    "source": "Hindu Marriage Act, 1955",
+    "currentStatus": {
+      "en": "Current law; matrimonial rights can depend on personal law, facts, children, finances, and pending proceedings. Consult a qualified family-law professional for a live dispute.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  },
+  {
+    "id": "minimum-wages-rights",
+    "act": "Code on Wages, 2019",
+    "section": "Minimum wages and payment of wages",
+    "title": {
+      "en": "Minimum wage and timely payment protections",
+      "hi": "न्यूनतम मजदूरी और मजदूरी भुगतान की सुरक्षा",
+      "hinglish": "Minimum wages aur timely salary payment protection"
+    },
+    "keywords": {
+      "en": [
+        "salary",
+        "wages",
+        "minimum wage",
+        "unpaid salary",
+        "employer",
+        "employee",
+        "pay",
+        "labour"
+      ],
+      "hi": [
+        "वेतन",
+        "मजदूरी"
+      ],
+      "hinglish": [
+        "salary",
+        "wages",
+        "minimum wage",
+        "unpaid salary",
+        "employer",
+        "employee",
+        "pay",
+        "labour"
+      ]
+    },
+    "summary": {
+      "en": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+      "hi": "वेतन संहिता न्यूनतम मजदूरी, मजदूरी के भुगतान और संबंधित वेतन सुरक्षा के लिए वैधानिक ढांचा प्रदान करती है, जो लागू होने की स्थिति और नियमों के अधीन है।",
+      "hinglish": "Code on Wages minimum wages, wages payment aur related wage protections ka statutory framework provide karta hai, subject to applicable commencement aur rules."
+    },
+    "text": {
+      "en": "The Code on Wages, 2019 establishes a framework for minimum wages and payment-related protections. The precise rights and enforcement route depend on the applicable commencement notifications, rules, employment facts, and state or sector context.",
+      "hi": "वेतन संहिता न्यूनतम मजदूरी, मजदूरी के भुगतान और संबंधित वेतन सुरक्षा के लिए वैधानिक ढांचा प्रदान करती है, जो लागू होने की स्थिति और नियमों के अधीन है।",
+      "hinglish": "Code on Wages minimum wages, wages payment aur related wage protections ka statutory framework provide karta hai, subject to applicable commencement aur rules."
+    },
+    "source": "Code on Wages, 2019",
+    "currentStatus": {
+      "en": "Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications.",
+      "hi": "विशिष्ट मामले में वर्तमान कानून, प्रक्रिया और योग्य वकील की सलाह की पुष्टि करें।",
+      "hinglish": "Specific case mein current law, procedure aur qualified lawyer ki advice verify karein."
+    },
+    "sourceUrl": "https://www.indiacode.nic.in/",
+    "verifiedAt": "2026-09-14"
+  }
+]

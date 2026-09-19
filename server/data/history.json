@@ -1,0 +1,1758 @@
+[
+  {
+    "id": "1789814161601",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:36:01.601Z"
+  },
+  {
+    "id": "1789814071231",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:34:31.231Z"
+  },
+  {
+    "id": "1789813899642",
+    "question": "What is the weather today?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T10:31:39.642Z"
+  },
+  {
+    "id": "1789813899629",
+    "question": "My employer has not paid my salary?",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 3,
+    "createdAt": "2026-09-19T10:31:39.629Z"
+  },
+  {
+    "id": "1789813899247",
+    "question": "How does divorce work?",
+    "topic": "Matrimonial rights, divorce, and related remedies",
+    "quickAnswer": "Based on Hindu Marriage Act, 1955 — Marriage, divorce, and matrimonial remedies: The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies.",
+    "detailedAnswer": "The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies. Current law; matrimonial rights can depend on personal law, facts, children, finances, and pending proceedings. Consult a qualified family-law professional for a live dispute. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Hindu Marriage Act, 1955",
+        "section": "Marriage, divorce, and matrimonial remedies — Matrimonial rights, divorce, and related remedies",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:39.247Z"
+  },
+  {
+    "id": "1789813898876",
+    "question": "Who pays compensation after a road accident?",
+    "topic": "Road accidents, insurance, and compensation claims",
+    "quickAnswer": "Based on Motor Vehicles Act, 1988 — Motor accident claims and road-user duties: The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents.",
+    "detailedAnswer": "The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents. Current law; after an accident, prioritize safety and medical care, report the incident as required, preserve evidence, and obtain case-specific legal advice before settling a claim. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Motor Vehicles Act, 1988",
+        "section": "Motor accident claims and road-user duties — Road accidents, insurance, and compensation claims",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 2,
+    "createdAt": "2026-09-19T10:31:38.876Z"
+  },
+  {
+    "id": "1789813898142",
+    "question": "How can I report child sexual abuse?",
+    "topic": "Protection of children from sexual abuse and exploitation",
+    "quickAnswer": "Based on Protection of Children from Sexual Offences Act, 2012 — Child sexual offences and reporting duties: The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+    "detailedAnswer": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences. Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "Child sexual offences and reporting duties — Protection of children from sexual abuse and exploitation",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:38.142Z"
+  },
+  {
+    "id": "1789813897807",
+    "question": "My office has sexual harassment, what is the complaint process?",
+    "topic": "Prevention and redressal of sexual harassment at work",
+    "quickAnswer": "Based on Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 — Workplace complaint and Internal Committee process: The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces.",
+    "detailedAnswer": "The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces. Current law; preserve relevant evidence and seek help from the workplace committee, appropriate authority, or a qualified lawyer for a specific complaint. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+        "section": "Workplace complaint and Internal Committee process — Prevention and redressal of sexual harassment at work",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:37.807Z"
+  },
+  {
+    "id": "1789813897454",
+    "question": "What protection is available for domestic violence?",
+    "topic": "Protection and remedies in domestic violence matters",
+    "quickAnswer": "Based on Protection of Women from Domestic Violence Act, 2005 — Sections 12, 18, 19, and 20: The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence.",
+    "detailedAnswer": "The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence. Current law; urgent safety concerns should be reported to local emergency services or the appropriate authority, and case-specific relief should be discussed with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Sections 12, 18, 19, and 20 — Protection and remedies in domestic violence matters",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:37.454Z"
+  },
+  {
+    "id": "1789813897121",
+    "question": "How do I file an RTI request?",
+    "topic": "Filing an RTI request and seeking information",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI procedure: Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+    "detailedAnswer": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act. The exact procedure depends on the public authority and type of information requested. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI procedure — Filing an RTI request and seeking information",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:37.121Z"
+  },
+  {
+    "id": "1789813896784",
+    "question": "Someone is harassing my sister. What can she do?",
+    "topic": "Assault or criminal force to woman with intent to outrage her modesty",
+    "quickAnswer": "Based on Indian Penal Code, 1860 — 354: Section 354 addressed assault or criminal force against a woman with the specified intent.",
+    "detailedAnswer": "Section 354 addressed assault or criminal force against a woman with the specified intent. For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 74, from the official text. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Indian Penal Code, 1860",
+        "section": "354 — Assault or criminal force to woman with intent to outrage her modesty",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:36.784Z"
+  },
+  {
+    "id": "1789813896202",
+    "question": "What is the capital of India?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T10:31:36.202Z"
+  },
+  {
+    "id": "1789813896189",
+    "question": "How do I file an RTI request?",
+    "topic": "Filing an RTI request and seeking information",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI procedure: Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+    "detailedAnswer": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act. The exact procedure depends on the public authority and type of information requested. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI procedure — Filing an RTI request and seeking information",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:36.189Z"
+  },
+  {
+    "id": "1789813896161",
+    "question": "Can police arrest me without a warrant?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:36.161Z"
+  },
+  {
+    "id": "1789813867157",
+    "question": "What is the weather today?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T10:31:07.157Z"
+  },
+  {
+    "id": "1789813867144",
+    "question": "My employer has not paid my salary?",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 3,
+    "createdAt": "2026-09-19T10:31:07.144Z"
+  },
+  {
+    "id": "1789813866749",
+    "question": "How does divorce work?",
+    "topic": "Matrimonial rights, divorce, and related remedies",
+    "quickAnswer": "Based on Hindu Marriage Act, 1955 — Marriage, divorce, and matrimonial remedies: The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies.",
+    "detailedAnswer": "The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies. Current law; matrimonial rights can depend on personal law, facts, children, finances, and pending proceedings. Consult a qualified family-law professional for a live dispute. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Hindu Marriage Act, 1955",
+        "section": "Marriage, divorce, and matrimonial remedies — Matrimonial rights, divorce, and related remedies",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:06.750Z"
+  },
+  {
+    "id": "1789813865946",
+    "question": "Who pays compensation after a road accident?",
+    "topic": "Road accidents, insurance, and compensation claims",
+    "quickAnswer": "Based on Motor Vehicles Act, 1988 — Motor accident claims and road-user duties: The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents.",
+    "detailedAnswer": "The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents. Current law; after an accident, prioritize safety and medical care, report the incident as required, preserve evidence, and obtain case-specific legal advice before settling a claim. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Motor Vehicles Act, 1988",
+        "section": "Motor accident claims and road-user duties — Road accidents, insurance, and compensation claims",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 2,
+    "createdAt": "2026-09-19T10:31:05.946Z"
+  },
+  {
+    "id": "1789813865555",
+    "question": "How can I report child sexual abuse?",
+    "topic": "Protection of children from sexual abuse and exploitation",
+    "quickAnswer": "Based on Protection of Children from Sexual Offences Act, 2012 — Child sexual offences and reporting duties: The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+    "detailedAnswer": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences. Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "Child sexual offences and reporting duties — Protection of children from sexual abuse and exploitation",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:05.555Z"
+  },
+  {
+    "id": "1789813865044",
+    "question": "My office has sexual harassment, what is the complaint process?",
+    "topic": "Prevention and redressal of sexual harassment at work",
+    "quickAnswer": "Based on Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 — Workplace complaint and Internal Committee process: The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces.",
+    "detailedAnswer": "The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces. Current law; preserve relevant evidence and seek help from the workplace committee, appropriate authority, or a qualified lawyer for a specific complaint. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+        "section": "Workplace complaint and Internal Committee process — Prevention and redressal of sexual harassment at work",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:05.044Z"
+  },
+  {
+    "id": "1789813864631",
+    "question": "What protection is available for domestic violence?",
+    "topic": "Protection and remedies in domestic violence matters",
+    "quickAnswer": "Based on Protection of Women from Domestic Violence Act, 2005 — Sections 12, 18, 19, and 20: The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence.",
+    "detailedAnswer": "The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence. Current law; urgent safety concerns should be reported to local emergency services or the appropriate authority, and case-specific relief should be discussed with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Sections 12, 18, 19, and 20 — Protection and remedies in domestic violence matters",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:04.631Z"
+  },
+  {
+    "id": "1789813864243",
+    "question": "How do I file an RTI request?",
+    "topic": "Filing an RTI request and seeking information",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI procedure: Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+    "detailedAnswer": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act. The exact procedure depends on the public authority and type of information requested. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI procedure — Filing an RTI request and seeking information",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:04.243Z"
+  },
+  {
+    "id": "1789813863830",
+    "question": "Someone is harassing my sister. What can she do?",
+    "topic": "Assault or criminal force to woman with intent to outrage her modesty",
+    "quickAnswer": "Based on Indian Penal Code, 1860 — 354: Section 354 addressed assault or criminal force against a woman with the specified intent.",
+    "detailedAnswer": "Section 354 addressed assault or criminal force against a woman with the specified intent. For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 74, from the official text. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Indian Penal Code, 1860",
+        "section": "354 — Assault or criminal force to woman with intent to outrage her modesty",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:03.830Z"
+  },
+  {
+    "id": "1789813863400",
+    "question": "What is the capital of India?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T10:31:03.400Z"
+  },
+  {
+    "id": "1789813863359",
+    "question": "Can police arrest me without a warrant?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:31:03.359Z"
+  },
+  {
+    "id": "1789813624237",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:27:04.237Z"
+  },
+  {
+    "id": "1789813505962",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:25:05.962Z"
+  },
+  {
+    "id": "1789813470240",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T10:24:30.240Z"
+  },
+  {
+    "id": "1789810275432",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T09:31:15.432Z"
+  },
+  {
+    "id": "1789800343553",
+    "question": "What should I do if I become a victim of cyber fraud?",
+    "topic": "Online fraud, identity theft, and digital offences",
+    "quickAnswer": "Based on Information Technology Act, 2000 — Cyber offences and digital fraud: The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+    "detailedAnswer": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information. Cyber fraud incidents should be reported promptly to the platform and the appropriate authority; the facts determine the exact remedy. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Information Technology Act, 2000",
+        "section": "Cyber offences and digital fraud — Online fraud, identity theft, and digital offences",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:45:43.553Z"
+  },
+  {
+    "id": "1789800328396",
+    "question": "What should I do if I become a victim of cyber fraud?",
+    "topic": "Online fraud, identity theft, and digital offences",
+    "quickAnswer": "Based on Information Technology Act, 2000 — Cyber offences and digital fraud: The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+    "detailedAnswer": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information. Cyber fraud incidents should be reported promptly to the platform and the appropriate authority; the facts determine the exact remedy. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Information Technology Act, 2000",
+        "section": "Cyber offences and digital fraud — Online fraud, identity theft, and digital offences",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:45:28.396Z"
+  },
+  {
+    "id": "1789799861061",
+    "question": "What is the weather today?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T06:37:41.061Z"
+  },
+  {
+    "id": "1789799861049",
+    "question": "My employer has not paid my salary?",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 3,
+    "createdAt": "2026-09-19T06:37:41.049Z"
+  },
+  {
+    "id": "1789799860494",
+    "question": "How does divorce work?",
+    "topic": "Matrimonial rights, divorce, and related remedies",
+    "quickAnswer": "Based on Hindu Marriage Act, 1955 — Marriage, divorce, and matrimonial remedies: The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies.",
+    "detailedAnswer": "The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies. Current law; matrimonial rights can depend on personal law, facts, children, finances, and pending proceedings. Consult a qualified family-law professional for a live dispute. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Hindu Marriage Act, 1955",
+        "section": "Marriage, divorce, and matrimonial remedies — Matrimonial rights, divorce, and related remedies",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:40.494Z"
+  },
+  {
+    "id": "1789799860125",
+    "question": "Who pays compensation after a road accident?",
+    "topic": "Road accidents, insurance, and compensation claims",
+    "quickAnswer": "Based on Motor Vehicles Act, 1988 — Motor accident claims and road-user duties: The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents.",
+    "detailedAnswer": "The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents. Current law; after an accident, prioritize safety and medical care, report the incident as required, preserve evidence, and obtain case-specific legal advice before settling a claim. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Motor Vehicles Act, 1988",
+        "section": "Motor accident claims and road-user duties — Road accidents, insurance, and compensation claims",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 2,
+    "createdAt": "2026-09-19T06:37:40.125Z"
+  },
+  {
+    "id": "1789799859712",
+    "question": "How can I report child sexual abuse?",
+    "topic": "Protection of children from sexual abuse and exploitation",
+    "quickAnswer": "Based on Protection of Children from Sexual Offences Act, 2012 — Child sexual offences and reporting duties: The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+    "detailedAnswer": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences. Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "Child sexual offences and reporting duties — Protection of children from sexual abuse and exploitation",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:39.712Z"
+  },
+  {
+    "id": "1789799859306",
+    "question": "My office has sexual harassment, what is the complaint process?",
+    "topic": "Prevention and redressal of sexual harassment at work",
+    "quickAnswer": "Based on Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 — Workplace complaint and Internal Committee process: The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces.",
+    "detailedAnswer": "The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces. Current law; preserve relevant evidence and seek help from the workplace committee, appropriate authority, or a qualified lawyer for a specific complaint. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+        "section": "Workplace complaint and Internal Committee process — Prevention and redressal of sexual harassment at work",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:39.306Z"
+  },
+  {
+    "id": "1789799858902",
+    "question": "What protection is available for domestic violence?",
+    "topic": "Protection and remedies in domestic violence matters",
+    "quickAnswer": "Based on Protection of Women from Domestic Violence Act, 2005 — Sections 12, 18, 19, and 20: The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence.",
+    "detailedAnswer": "The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence. Current law; urgent safety concerns should be reported to local emergency services or the appropriate authority, and case-specific relief should be discussed with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Sections 12, 18, 19, and 20 — Protection and remedies in domestic violence matters",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:38.902Z"
+  },
+  {
+    "id": "1789799858491",
+    "question": "How do I file an RTI request?",
+    "topic": "Filing an RTI request and seeking information",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI procedure: Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+    "detailedAnswer": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act. The exact procedure depends on the public authority and type of information requested. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI procedure — Filing an RTI request and seeking information",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:38.491Z"
+  },
+  {
+    "id": "1789799858051",
+    "question": "Someone is harassing my sister. What can she do?",
+    "topic": "Assault or criminal force to woman with intent to outrage her modesty",
+    "quickAnswer": "Based on Indian Penal Code, 1860 — 354: Section 354 addressed assault or criminal force against a woman with the specified intent.",
+    "detailedAnswer": "Section 354 addressed assault or criminal force against a woman with the specified intent. For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 74, from the official text. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Indian Penal Code, 1860",
+        "section": "354 — Assault or criminal force to woman with intent to outrage her modesty",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:38.051Z"
+  },
+  {
+    "id": "1789799857669",
+    "question": "What is the capital of India?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T06:37:37.669Z"
+  },
+  {
+    "id": "1789799857616",
+    "question": "Can police arrest me without a warrant?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:37:37.616Z"
+  },
+  {
+    "id": "1789798977191",
+    "question": "What is the weather today?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T06:22:57.191Z"
+  },
+  {
+    "id": "1789798977170",
+    "question": "My employer has not paid my salary?",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 3,
+    "createdAt": "2026-09-19T06:22:57.170Z"
+  },
+  {
+    "id": "1789798976824",
+    "question": "How does divorce work?",
+    "topic": "Matrimonial rights, divorce, and related remedies",
+    "quickAnswer": "Based on Hindu Marriage Act, 1955 — Marriage, divorce, and matrimonial remedies: The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies.",
+    "detailedAnswer": "The Hindu Marriage Act governs specified Hindu matrimonial matters, including conditions of marriage, divorce, judicial separation, and related court remedies. Current law; matrimonial rights can depend on personal law, facts, children, finances, and pending proceedings. Consult a qualified family-law professional for a live dispute. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Hindu Marriage Act, 1955",
+        "section": "Marriage, divorce, and matrimonial remedies — Matrimonial rights, divorce, and related remedies",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:56.824Z"
+  },
+  {
+    "id": "1789798976420",
+    "question": "Who pays compensation after a road accident?",
+    "topic": "Road accidents, insurance, and compensation claims",
+    "quickAnswer": "Based on Motor Vehicles Act, 1988 — Motor accident claims and road-user duties: The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents.",
+    "detailedAnswer": "The Motor Vehicles Act regulates road use, driving and insurance requirements, and legal processes connected with compensation for motor-vehicle accidents. Current law; after an accident, prioritize safety and medical care, report the incident as required, preserve evidence, and obtain case-specific legal advice before settling a claim. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Motor Vehicles Act, 1988",
+        "section": "Motor accident claims and road-user duties — Road accidents, insurance, and compensation claims",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 2,
+    "createdAt": "2026-09-19T06:22:56.420Z"
+  },
+  {
+    "id": "1789798976005",
+    "question": "How can I report child sexual abuse?",
+    "topic": "Protection of children from sexual abuse and exploitation",
+    "quickAnswer": "Based on Protection of Children from Sexual Offences Act, 2012 — Child sexual offences and reporting duties: The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+    "detailedAnswer": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences. Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "Child sexual offences and reporting duties — Protection of children from sexual abuse and exploitation",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:56.005Z"
+  },
+  {
+    "id": "1789798975615",
+    "question": "My office has sexual harassment, what is the complaint process?",
+    "topic": "Prevention and redressal of sexual harassment at work",
+    "quickAnswer": "Based on Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 — Workplace complaint and Internal Committee process: The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces.",
+    "detailedAnswer": "The POSH Act provides a framework for preventing and addressing sexual harassment of women at the workplace, including an internal complaint process in covered workplaces. Current law; preserve relevant evidence and seek help from the workplace committee, appropriate authority, or a qualified lawyer for a specific complaint. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+        "section": "Workplace complaint and Internal Committee process — Prevention and redressal of sexual harassment at work",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:55.615Z"
+  },
+  {
+    "id": "1789798975282",
+    "question": "What protection is available for domestic violence?",
+    "topic": "Protection and remedies in domestic violence matters",
+    "quickAnswer": "Based on Protection of Women from Domestic Violence Act, 2005 — Sections 12, 18, 19, and 20: The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence.",
+    "detailedAnswer": "The Act provides a framework for protection orders, residence-related relief, monetary relief, and other remedies where a woman faces domestic violence. Current law; urgent safety concerns should be reported to local emergency services or the appropriate authority, and case-specific relief should be discussed with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Women from Domestic Violence Act, 2005",
+        "section": "Sections 12, 18, 19, and 20 — Protection and remedies in domestic violence matters",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:55.282Z"
+  },
+  {
+    "id": "1789798974872",
+    "question": "How do I file an RTI request?",
+    "topic": "Filing an RTI request and seeking information",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI procedure: Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+    "detailedAnswer": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act. The exact procedure depends on the public authority and type of information requested. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI procedure — Filing an RTI request and seeking information",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:54.872Z"
+  },
+  {
+    "id": "1789798974452",
+    "question": "Someone is harassing my sister. What can she do?",
+    "topic": "Assault or criminal force to woman with intent to outrage her modesty",
+    "quickAnswer": "Based on Indian Penal Code, 1860 — 354: Section 354 addressed assault or criminal force against a woman with the specified intent.",
+    "detailedAnswer": "Section 354 addressed assault or criminal force against a woman with the specified intent. For current offences, verify the applicable Bharatiya Nyaya Sanhita provision, commonly identified as Section 74, from the official text. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Indian Penal Code, 1860",
+        "section": "354 — Assault or criminal force to woman with intent to outrage her modesty",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:54.452Z"
+  },
+  {
+    "id": "1789798974079",
+    "question": "What is the capital of India?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-19T06:22:54.079Z"
+  },
+  {
+    "id": "1789798973986",
+    "question": "Can police arrest me without a warrant?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-19T06:22:53.986Z"
+  },
+  {
+    "id": "1789664136510",
+    "question": "न्यूनतम मजदूरी और मजदूरी भुगतान की सुरक्षा",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-17T16:55:36.510Z"
+  },
+  {
+    "id": "1789664086264",
+    "question": "न्यूनतम मजदूरी और मजदूरी भुगतान की सुरक्षा",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-17T16:54:46.264Z"
+  },
+  {
+    "id": "1789664059387",
+    "question": "minimum-wages-rights",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-17T16:54:19.387Z"
+  },
+  {
+    "id": "1789663870147",
+    "question": "me gari chala raha tha aur mera car crash ho gya to kya kare",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-17T16:51:10.147Z"
+  },
+  {
+    "id": "1789663815348",
+    "question": "article 17 in hindi",
+    "topic": "Freedom of speech and expression and other freedoms",
+    "quickAnswer": "Based on Constitution of India — Article 19: Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution.",
+    "detailedAnswer": "Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution. This is a constitutional provision. For a specific case, apply the relevant constitutional limits and legal exceptions with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 19 — Freedom of speech and expression and other freedoms",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-17T16:50:15.348Z"
+  },
+  {
+    "id": "1789663524046",
+    "question": "Minimum wage and timely payment protections",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 2,
+    "createdAt": "2026-09-17T16:45:24.046Z"
+  },
+  {
+    "id": "1789663477956",
+    "question": "hii",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-17T16:44:37.956Z"
+  },
+  {
+    "id": "1789476560948",
+    "question": "human right",
+    "topic": "Right to access information from public authorities",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI: The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life.",
+    "detailedAnswer": "The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life. The exact procedure for filing an RTI application depends on the authority and the nature of the information sought. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI — Right to access information from public authorities",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T12:49:20.948Z"
+  },
+  {
+    "id": "1789475239704",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T12:27:19.704Z"
+  },
+  {
+    "id": "1789474296198",
+    "question": "What should I do if I become a victim of cyber fraud?",
+    "topic": "Online fraud, identity theft, and digital offences",
+    "quickAnswer": "Based on Information Technology Act, 2000 — Cyber offences and digital fraud: The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+    "detailedAnswer": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information. Cyber fraud incidents should be reported promptly to the platform and the appropriate authority; the facts determine the exact remedy. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Information Technology Act, 2000",
+        "section": "Cyber offences and digital fraud — Online fraud, identity theft, and digital offences",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T12:11:36.198Z"
+  },
+  {
+    "id": "1789474182475",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T12:09:42.475Z"
+  },
+  {
+    "id": "1789473581993",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:59:41.993Z"
+  },
+  {
+    "id": "1789473375249",
+    "question": "How can I use the Right to Information?",
+    "topic": "Right to access information from public authorities",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI: The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life.",
+    "detailedAnswer": "The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life. The exact procedure for filing an RTI application depends on the authority and the nature of the information sought. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI — Right to access information from public authorities",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:56:15.249Z"
+  },
+  {
+    "id": "1789473346473",
+    "question": "mine car challan in court , how to solve this?",
+    "topic": "Right to move the Supreme Court for enforcement of fundamental rights",
+    "quickAnswer": "Based on Constitution of India — Article 32: Article 32 provides a direct constitutional remedy for enforcement of fundamental rights. It is an important safeguard in legal disputes involving rights violations.",
+    "detailedAnswer": "Article 32 provides a direct constitutional remedy for enforcement of fundamental rights. It is an important safeguard in legal disputes involving rights violations. This constitutional remedy is available within the framework of the Constitution; legal advice should be sought for specific cases. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 32 — Right to move the Supreme Court for enforcement of fundamental rights",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:55:46.473Z"
+  },
+  {
+    "id": "1789472704212",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:45:04.212Z"
+  },
+  {
+    "id": "1789472032820",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:33:52.820Z"
+  },
+  {
+    "id": "1789471621771",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:27:01.771Z"
+  },
+  {
+    "id": "1789471336399",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:22:16.399Z"
+  },
+  {
+    "id": "1789471018080",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:16:58.080Z"
+  },
+  {
+    "id": "1789470458955",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T11:07:38.955Z"
+  },
+  {
+    "id": "1789469910435",
+    "question": "article 360",
+    "topic": "Freedom of speech and expression and other freedoms",
+    "quickAnswer": "Based on Constitution of India — Article 19: Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution.",
+    "detailedAnswer": "Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution. This is a constitutional provision. For a specific case, apply the relevant constitutional limits and legal exceptions with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 19 — Freedom of speech and expression and other freedoms",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T10:58:30.435Z"
+  },
+  {
+    "id": "1789469771133",
+    "question": "hii",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-15T10:56:11.133Z"
+  },
+  {
+    "id": "1789469590849",
+    "question": "child safety",
+    "topic": "Protection of children from sexual abuse and exploitation",
+    "quickAnswer": "Based on Protection of Children from Sexual Offences Act, 2012 — Child sexual offences and reporting duties: The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+    "detailedAnswer": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences. Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "Child sexual offences and reporting duties — Protection of children from sexual abuse and exploitation",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T10:53:10.849Z"
+  },
+  {
+    "id": "1789469407480",
+    "question": "ragging",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-15T10:50:07.480Z"
+  },
+  {
+    "id": "1789468952960",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T10:42:32.960Z"
+  },
+  {
+    "id": "1789468164527",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T10:29:24.527Z"
+  },
+  {
+    "id": "1789466635034",
+    "question": "first law",
+    "topic": "Equality before the law",
+    "quickAnswer": "Based on Constitution of India — Article 14: Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action.",
+    "detailedAnswer": "Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action. This is a constitutional guarantee; the application depends on the facts and relevant legal context. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 14 — Equality before the law",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T10:03:55.034Z"
+  },
+  {
+    "id": "1789465730964",
+    "question": "What should I do if I become a victim of cyber fraud?",
+    "topic": "Online fraud, identity theft, and digital offences",
+    "quickAnswer": "Based on Information Technology Act, 2000 — Cyber offences and digital fraud: The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+    "detailedAnswer": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information. Cyber fraud incidents should be reported promptly to the platform and the appropriate authority; the facts determine the exact remedy. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Information Technology Act, 2000",
+        "section": "Cyber offences and digital fraud — Online fraud, identity theft, and digital offences",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T09:48:50.964Z"
+  },
+  {
+    "id": "1789465213645",
+    "question": "What are my rights if I am arrested?",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T09:40:13.645Z"
+  },
+  {
+    "id": "1789463038048",
+    "question": "can you explain me about article 21",
+    "topic": "Freedom of speech and expression and other freedoms",
+    "quickAnswer": "Based on Constitution of India — Article 19: Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution.",
+    "detailedAnswer": "Article 19 protects certain freedoms of citizens, including speech and expression, movement, residence, and trade and occupation, subject to reasonable restrictions under the Constitution. This is a constitutional provision. For a specific case, apply the relevant constitutional limits and legal exceptions with a qualified lawyer. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 19 — Freedom of speech and expression and other freedoms",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T09:03:58.048Z"
+  },
+  {
+    "id": "1789460621543",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T08:23:41.543Z"
+  },
+  {
+    "id": "1789460120584",
+    "question": "women safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T08:15:20.584Z"
+  },
+  {
+    "id": "1789459543074",
+    "question": "women  safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T08:05:43.074Z"
+  },
+  {
+    "id": "1789459200392",
+    "question": "women  safety",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T08:00:00.392Z"
+  },
+  {
+    "id": "1789459157897",
+    "question": "harashment",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-15T07:59:17.897Z"
+  },
+  {
+    "id": "1789458743851",
+    "question": "first law",
+    "topic": "Equality before the law",
+    "quickAnswer": "Based on Constitution of India — Article 14: Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action.",
+    "detailedAnswer": "Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action. This is a constitutional guarantee; the application depends on the facts and relevant legal context. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 14 — Equality before the law",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T07:52:23.851Z"
+  },
+  {
+    "id": "1789451452682",
+    "question": "how to file rti",
+    "topic": "Filing an RTI request and seeking information",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI procedure: Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act.",
+    "detailedAnswer": "Citizens may file RTI applications to obtain information from public authorities, subject to statutory exemptions and procedural rules set out in the RTI Act. The exact procedure depends on the public authority and type of information requested. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI procedure — Filing an RTI request and seeking information",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T05:50:52.682Z"
+  },
+  {
+    "id": "1789451400962",
+    "question": "How can I use the Right to Information?",
+    "topic": "Right to access information from public authorities",
+    "quickAnswer": "Based on Right to Information Act, 2005 — RTI: The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life.",
+    "detailedAnswer": "The RTI Act allows citizens to request information from public authorities in order to promote transparency, accountability, and informed participation in public life. The exact procedure for filing an RTI application depends on the authority and the nature of the information sought. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Right to Information Act, 2005",
+        "section": "RTI — Right to access information from public authorities",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T05:50:00.962Z"
+  },
+  {
+    "id": "1789450745178",
+    "question": "what is sexual harrashment",
+    "topic": "Protection of children from sexual abuse and exploitation",
+    "quickAnswer": "Based on Protection of Children from Sexual Offences Act, 2012 — Child sexual offences and reporting duties: The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences.",
+    "detailedAnswer": "The POCSO Act protects children from sexual assault, sexual harassment, and pornography, and provides procedures for reporting and trying these offences. Current law; suspected child sexual abuse should be reported promptly to the police or the Childline/child-protection authorities. Do not delay urgent protection while seeking general information. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Protection of Children from Sexual Offences Act, 2012",
+        "section": "Child sexual offences and reporting duties — Protection of children from sexual abuse and exploitation",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T05:39:05.178Z"
+  },
+  {
+    "id": "1789450677934",
+    "question": "What should I do if I become a victim of cyber fraud?",
+    "topic": "Online fraud, identity theft, and digital offences",
+    "quickAnswer": "Based on Information Technology Act, 2000 — Cyber offences and digital fraud: The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information.",
+    "detailedAnswer": "The IT Act covers digital offences, identity theft, online cheating, and related fraudulent conduct affecting electronic systems, accounts, and digital information. Cyber fraud incidents should be reported promptly to the platform and the appropriate authority; the facts determine the exact remedy. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Information Technology Act, 2000",
+        "section": "Cyber offences and digital fraud — Online fraud, identity theft, and digital offences",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T05:37:57.934Z"
+  },
+  {
+    "id": "1789450615143",
+    "question": "section 78",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-15T05:36:55.143Z"
+  },
+  {
+    "id": "1789415451260",
+    "question": "first law",
+    "topic": "Equality before the law",
+    "quickAnswer": "Based on Constitution of India — Article 14: Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action.",
+    "detailedAnswer": "Article 14 guarantees equality before the law and equal protection of the laws, requiring reasonable and non-arbitrary state action. This is a constitutional guarantee; the application depends on the facts and relevant legal context. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Constitution of India",
+        "section": "Article 14 — Equality before the law",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-14T19:50:51.260Z"
+  },
+  {
+    "id": "1789412744334",
+    "question": "hii",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-14T19:05:44.334Z"
+  },
+  {
+    "id": "1789379032083",
+    "question": "what is Section 143",
+    "topic": "Sexual harassment and assault against women",
+    "quickAnswer": "Based on Bharatiya Nyaya Sanhita, 2023 — Section 74: The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature.",
+    "detailedAnswer": "The law covers sexual harassment, assault, and acts that outrage a woman's modesty, including conduct that is degrading, threatening, or coercive in nature. Current law; official text and a lawyer should be checked for a live case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "section": "Section 74 — Sexual harassment and assault against women",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-14T09:43:52.083Z"
+  },
+  {
+    "id": "1789379017451",
+    "question": "hello what's your name",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-14T09:43:37.451Z"
+  },
+  {
+    "id": "1789378144041",
+    "question": "What is the weather today?",
+    "topic": "Legal scope",
+    "quickAnswer": "I’m LEGAL_BOT. I can only help with Indian laws, legal rights, duties, and legal procedures. Please ask me something related to your legal rights or the law.",
+    "detailedAnswer": "This question is outside the legal domain. LEGAL_BOT is designed to answer questions about Indian legal rights, duties, protections, procedures, and law-related issues only.",
+    "sources": [],
+    "model": "scope-filter",
+    "datasetMatches": 0,
+    "createdAt": "2026-09-14T09:29:04.041Z"
+  },
+  {
+    "id": "1789378144012",
+    "question": "My employer has not paid my salary?",
+    "topic": "Minimum wage and timely payment protections",
+    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
+    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Code on Wages, 2019",
+        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 3,
+    "createdAt": "2026-09-14T09:29:04.012Z"
+  }
+]
