@@ -1,5 +1,25 @@
 [
   {
+    "id": "1789883788474",
+    "question": "What are my rights if I am arrested?",
+    "language": "en",
+    "topic": "Arrest, custody, and production before a magistrate",
+    "quickAnswer": "Based on Bharatiya Nagarik Suraksha Sanhita, 2023 — Arrest procedure: The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies.",
+    "detailedAnswer": "The criminal procedure law lays down safeguards around arrest, custody, and production before a magistrate, alongside legal rights of accused persons and the role of investigation agencies. Procedural details should be confirmed from the official text of the relevant statute and current legal advice for the specific case. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
+    "sources": [
+      {
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "section": "Arrest procedure — Arrest, custody, and production before a magistrate",
+        "type": "Local legal reference dataset",
+        "sourceUrl": "https://www.indiacode.nic.in/",
+        "verifiedAt": "2026-09-14"
+      }
+    ],
+    "model": "fallback",
+    "datasetMatches": 5,
+    "createdAt": "2026-09-20T05:56:28.474Z"
+  },
+  {
     "id": "1789814161601",
     "question": "What are my rights if I am arrested?",
     "topic": "Arrest, custody, and production before a magistrate",
@@ -1735,24 +1755,5 @@
     "model": "scope-filter",
     "datasetMatches": 0,
     "createdAt": "2026-09-14T09:29:04.041Z"
-  },
-  {
-    "id": "1789378144012",
-    "question": "My employer has not paid my salary?",
-    "topic": "Minimum wage and timely payment protections",
-    "quickAnswer": "Based on Code on Wages, 2019 — Minimum wages and payment of wages: The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules.",
-    "detailedAnswer": "The Code on Wages provides a statutory framework concerning minimum wages, payment of wages, and related wage protections, subject to commencement and applicable rules. Verify the current commencement and applicable rules before relying on a specific provision; preserve payslips, contracts, attendance records, and written communications. This is general legal information and not a substitute for advice from a qualified lawyer. Consult a qualified lawyer for advice about a real case.",
-    "sources": [
-      {
-        "title": "Code on Wages, 2019",
-        "section": "Minimum wages and payment of wages — Minimum wage and timely payment protections",
-        "type": "Local legal reference dataset",
-        "sourceUrl": "https://www.indiacode.nic.in/",
-        "verifiedAt": "2026-09-14"
-      }
-    ],
-    "model": "fallback",
-    "datasetMatches": 3,
-    "createdAt": "2026-09-14T09:29:04.012Z"
   }
 ]

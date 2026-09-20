@@ -69,6 +69,9 @@ app.use(
 
 app.use(express.json());
 
+// In-memory variable to store device data/status
+let latestDeviceStatus = "STANDBY";
+
 /* ================================
    HISTORY FUNCTIONS
 ================================ */
@@ -146,6 +149,26 @@ app.get("/api/health", (req, res) => {
   res.json({
     status: "ok",
     service: "LEGAL_BOT API",
+  });
+});
+
+/* ================================
+   DEVICE STATUS
+================================ */
+
+app.post("/api/sensor-data", (req, res) => {
+  const data = req.body;
+  console.log("Received data from ESP32:", data);
+
+  res.json({
+    status: "success",
+    message: "Data received",
+  });
+});
+
+app.get("/api/get-status", (req, res) => {
+  res.json({
+    command: latestDeviceStatus,
   });
 });
 
